@@ -18,18 +18,18 @@
 #include <sys/types.h>
 
 typedef struct sbuffer_node {
-    struct sbuffer_node* prev;
-    sensor_data_t data;
+    struct sbuffer_node* prev;   // pointer naar previous?
+    sensor_data_t data;          // data in een node van de buffer
 } sbuffer_node_t;
 
-struct sbuffer {
+struct sbuffer {                 // buffer gemaakt van nodes
     sbuffer_node_t* head;
     sbuffer_node_t* tail;
     bool closed;
-    pthread_mutex_t mutex;
+    pthread_mutex_t mutex;  
 };
 
-static sbuffer_node_t* create_node(const sensor_data_t* data) {
+static sbuffer_node_t* create_node(const sensor_data_t* data) {     // maak een node voor in de buffer
     sbuffer_node_t* node = malloc(sizeof(*node));
     *node = (sbuffer_node_t){
         .data = *data,
@@ -38,7 +38,7 @@ static sbuffer_node_t* create_node(const sensor_data_t* data) {
     return node;
 }
 
-sbuffer_t* sbuffer_create() {
+sbuffer_t* sbuffer_create() {       // initialiseer attributen en geheugen
     sbuffer_t* buffer = malloc(sizeof(sbuffer_t));
     // should never fail due to optimistic memory allocation
     assert(buffer != NULL);
@@ -51,7 +51,7 @@ sbuffer_t* sbuffer_create() {
     return buffer;
 }
 
-void sbuffer_destroy(sbuffer_t* buffer) {
+void sbuffer_destroy(sbuffer_t* buffer) {       // vrijgeven van de buffer
     assert(buffer);
     // make sure it's empty
     assert(buffer->head == buffer->tail);
@@ -59,29 +59,29 @@ void sbuffer_destroy(sbuffer_t* buffer) {
     free(buffer);
 }
 
-void sbuffer_lock(sbuffer_t* buffer) {
+void sbuffer_lock(sbuffer_t* buffer) {      // lock de buffer
     assert(buffer);
     ASSERT_ELSE_PERROR(pthread_mutex_lock(&buffer->mutex) == 0);
 }
-void sbuffer_unlock(sbuffer_t* buffer) {
+void sbuffer_unlock(sbuffer_t* buffer) {        // unlock de buffer
     assert(buffer);
     ASSERT_ELSE_PERROR(pthread_mutex_unlock(&buffer->mutex) == 0);
 }
 
-bool sbuffer_is_empty(sbuffer_t* buffer) {
+bool sbuffer_is_empty(sbuffer_t* buffer) {      // is de buffer leeg?
     assert(buffer);
     return buffer->head == NULL;
 }
 
-bool sbuffer_is_closed(sbuffer_t* buffer) {
+bool sbuffer_is_closed(sbuffer_t* buffer) {     // is de buffer closed?
     assert(buffer);
     return buffer->closed;
 }
 
-int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {
+int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {        // insert aan het begin van de buffer
     assert(buffer && data);
     if (buffer->closed)
-        return SBUFFER_FAILURE;
+        return SBUFFER_FAILURE;  // kan niet als hij toe is
 
     // create new node
     sbuffer_node_t* node = create_node(data);
@@ -97,7 +97,7 @@ int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {
     return SBUFFER_SUCCESS;
 }
 
-sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {
+sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van buffer terug en verwijder
     assert(buffer);
     assert(buffer->head != NULL);
 
@@ -114,7 +114,7 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {
     return ret;
 }
 
-void sbuffer_close(sbuffer_t* buffer) {
+void sbuffer_close(sbuffer_t* buffer) {     // close de buffer
     assert(buffer);
     buffer->closed = true;
 }
