@@ -28,7 +28,7 @@
     #define SET_MAX_TEMP 25
 #endif
 
-typedef struct {
+typedef struct {        // structuur van sensor
     uint16_t sensor_id;
     time_t last_modified;
     double buffer[RUN_AVG_LENGTH];
@@ -37,7 +37,7 @@ typedef struct {
 
 static vector_t* sensors = NULL;
 
-static sensor_value_t sensor_running_average(sensor_t* sensor) {
+static sensor_value_t sensor_running_average(sensor_t* sensor) {        // bereken gemiddelde van sensormetingen
     sensor_value_t sum = 0;
     for (int i = 0; i < RUN_AVG_LENGTH; i++) {
         sum += sensor->buffer[i];
@@ -45,21 +45,21 @@ static sensor_value_t sensor_running_average(sensor_t* sensor) {
     return sum / RUN_AVG_LENGTH;
 }
 
-static bool sensor_equals(void* s1, void* s2) {
+static bool sensor_equals(void* s1, void* s2) {     // id van 2 sensoren gelijk?
     return ((sensor_t*) s1)->sensor_id == ((sensor_t*) s2)->sensor_id;
 }
 
-static sensor_t* datamgr_find_sensor(uint16_t sensor_id) {
+static sensor_t* datamgr_find_sensor(uint16_t sensor_id) {      // zoek sensor op sensorID
     sensor_t sensor = {.sensor_id = sensor_id};
     return vector_find(sensors, &sensor, sensor_equals);
 }
 
-void datamgr_init() {
+void datamgr_init() {       // initialiseer datamanager met vector van sensoren
     sensors = vector_create();  // maak vector van sensoren
     assert(sensors);
 }
 
-void datamgr_process_reading(const sensor_data_t* data) {
+void datamgr_process_reading(const sensor_data_t* data) {       // leest alle data van een sensor - werking wat vaag
     sensor_t* obtained_sensor = datamgr_find_sensor(data->id);
     if (!obtained_sensor) { // sensor with id not found
         printf("Received sensor data with new sensor node id %d \n", data->id);
@@ -84,7 +84,7 @@ void datamgr_process_reading(const sensor_data_t* data) {
     }
 }
 
-void datamgr_free() {
+void datamgr_free() {       // verwijder de datamanager met zijn sensorenvector
     for (size_t i = 0; i < vector_size(sensors); i++)
         free(vector_at(sensors, i));
     vector_destroy(sensors);

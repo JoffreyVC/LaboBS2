@@ -29,13 +29,13 @@ void vector_remove_at_index(vector_t* vec, size_t index) {      // verwijder ele
     vec->size--;
 }
 
-void* vector_at(vector_t* vec, size_t index) {      // geef element uit vector terug
+void* vector_at(vector_t* vec, size_t index) {      // geef element uit vector terug ??
     assert(vec);
     assert(index < vec->size);
     return vec->elements[index];
 }
 
-void* vector_find(vector_t* vec, void* element_to_match, bool (*match_elements)(void*, void*)) {
+void* vector_find(vector_t* vec, void* element_to_match, bool (*match_elements)(void*, void*)) {        // geef element terug uit vector
     for (size_t i = 0; i < vec->size; i++) {
         void* element = vector_at(vec, i);
         if (match_elements(element, element_to_match))
@@ -44,12 +44,12 @@ void* vector_find(vector_t* vec, void* element_to_match, bool (*match_elements)(
     return NULL;
 }
 
-size_t vector_size(vector_t* vec) {
+size_t vector_size(vector_t* vec) {     // return grootte vector
     assert(vec);
     return vec->size;
 }
 
-void vector_destroy(vector_t* vec) {
+void vector_destroy(vector_t* vec) {        // verwijder de vector
     assert(vec);
     free(vec->elements);
     free(vec);

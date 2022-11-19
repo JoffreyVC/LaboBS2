@@ -17,7 +17,7 @@
 #include <time.h>
 #include <unistd.h>
 
-void connmgr_listen(int port_number, sbuffer_t* buffer) {
+void connmgr_listen(int port_number, sbuffer_t* buffer) {       // werking niet echt belangrijk voor ons i hope
 
 #if DEBUG
     const int fd =

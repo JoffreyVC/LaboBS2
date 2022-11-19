@@ -35,7 +35,7 @@
         free(sql_query);                                                        \
     } while (false)
 
-DBCONN* storagemgr_init_connection(bool clear_up_flag) {
+DBCONN* storagemgr_init_connection(bool clear_up_flag) {        // connect met database
     sqlite3* db = NULL;
     int rc = sqlite3_open(TO_STRING(DB_NAME), &db); // rc stands for result code
     if (rc != SQLITE_OK) {
@@ -69,11 +69,11 @@ DBCONN* storagemgr_init_connection(bool clear_up_flag) {
     return query_failed ? NULL : db;
 }
 
-void storagemgr_disconnect(DBCONN* conn) {
+void storagemgr_disconnect(DBCONN* conn) {      // disconnect met database
     sqlite3_close(conn);
 }
 
-int storagemgr_insert_sensor(DBCONN* conn, sensor_id_t id, sensor_value_t value,
+int storagemgr_insert_sensor(DBCONN* conn, sensor_id_t id, sensor_value_t value,        // voeg sensor toe aan database
                              sensor_ts_t ts) {
     bool query_failed = false;
     RUN_QUERY(
