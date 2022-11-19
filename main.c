@@ -73,7 +73,7 @@ static void* storagemgr_run(void* buffer) {     // MAIN_LOOP VOOR DE STORAGE MAN
 }
 
 int main(int argc, char* argv[]) {
-    if (argc != 2)              // geen idee wat argc is
+    if (argc != 2)              // geen idee wat dit boeltje is
         return print_usage();
     char* strport = argv[1];
     char* error_char = NULL;
