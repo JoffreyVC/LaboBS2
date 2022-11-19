@@ -55,7 +55,7 @@ static sensor_t* datamgr_find_sensor(uint16_t sensor_id) {
 }
 
 void datamgr_init() {
-    sensors = vector_create();
+    sensors = vector_create();  // maak vector van sensoren
     assert(sensors);
 }
 
