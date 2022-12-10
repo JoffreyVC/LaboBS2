@@ -1,4 +1,4 @@
-/**
+/** sqdfqsd
  * \author Mathieu Erbas
  */
 
@@ -15,9 +15,8 @@
 
 #include "sbuffer.h"
 #include "config.h"
-
-#include <assert.h>
 #include <pthread.h>
+#include <assert.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
