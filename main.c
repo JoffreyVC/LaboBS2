@@ -1,6 +1,16 @@
 /**
  * \author Mathieu Erbas
+ * 
+// ! Red (!)
+// ? Blue (?)
+// * Green (*)
+// ^ Yellow (^)
+// & Pink (&)
+// ~ Purple (~)
+// todo Mustard (todo)
  */
+
+// * https://doc.riot-os.org/pthread__mutex_8h.html voor uitleg over synchronization primitives
 
 #ifndef _GNU_SOURCE
     #define _GNU_SOURCE
@@ -18,16 +28,19 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdatomic.h>  // voor atomic operaties
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <wait.h>
+
+// todo: @Jof download extensions: colorful comments en clangd (en pdf viewer)
 
 static int print_usage() {
     printf("Usage: <command> <port number> \n");
     return -1;
 }
 
-static void* datamgr_run(void* buffer) {        // MAIN_LOOP VOOR DE DATA MANAGER
+static void* datamgr_run(void* buffer) {        // ^ MAIN_LOOP VOOR DE DATA MANAGER
     datamgr_init();
 
     // datamgr loop
@@ -49,7 +62,7 @@ static void* datamgr_run(void* buffer) {        // MAIN_LOOP VOOR DE DATA MANAGE
     return NULL;
 }
 
-static void* storagemgr_run(void* buffer) {     // MAIN_LOOP VOOR DE STORAGE MANAGER
+static void* storagemgr_run(void* buffer) {     // ^ MAIN_LOOP VOOR DE STORAGE MANAGER
     DBCONN* db = storagemgr_init_connection(1);
     assert(db != NULL);
 
@@ -72,7 +85,7 @@ static void* storagemgr_run(void* buffer) {     // MAIN_LOOP VOOR DE STORAGE MAN
     return NULL;
 }
 
-int main(int argc, char* argv[]) {
+int main(int argc, char* argv[]) {      // ^ MAIN 
     if (argc != 2)              // geen idee wat dit boeltje is ma mss boeit het nie
         return print_usage();
     char* strport = argv[1];
