@@ -41,10 +41,9 @@ static int print_usage() {
     return -1;
 }
 
-static void* datamgr_run(void* buffer) {        // ^ MAIN_LOOP VOOR DE DATA MANAGER
+static void* datamgr_run(void* buffer) {        // ^ LOOP VOOR DE DATA MANAGER
     datamgr_init();
 
-    // datamgr loop
     while (true) {
         sbuffer_lock(buffer);
         if (!sbuffer_is_empty(buffer)) {  // buffer niet leeg
@@ -63,11 +62,10 @@ static void* datamgr_run(void* buffer) {        // ^ MAIN_LOOP VOOR DE DATA MANA
     return NULL;
 }
 
-static void* storagemgr_run(void* buffer) {     // ^ MAIN_LOOP VOOR DE STORAGE MANAGER
+static void* storagemgr_run(void* buffer) {     // ^ LOOP VOOR DE STORAGE MANAGER
     DBCONN* db = storagemgr_init_connection(1);
     assert(db != NULL);
 
-    // storagemgr loop
     while (true) {
         sbuffer_lock(buffer);
         if (!sbuffer_is_empty(buffer)) {  // als buffer niet leeg is
@@ -86,7 +84,9 @@ static void* storagemgr_run(void* buffer) {     // ^ MAIN_LOOP VOOR DE STORAGE M
     return NULL;
 }
 
-int main(int argc, char* argv[]) {      // ^ MAIN 
+// --------------------------------------------------------------------------------------------------------
+
+int main(int argc, char* argv[]) {
     if (argc != 2)              // geen idee wat dit boeltje is ma mss boeit het nie
         return print_usage();
     char* strport = argv[1];
@@ -95,15 +95,18 @@ int main(int argc, char* argv[]) {      // ^ MAIN
     if (strport[0] == '\0' || error_char[0] != '\0')
         return print_usage();
 
+    // ^ Buffer
     sbuffer_t* buffer = sbuffer_create();  // maak een buffer
 
+    // ^ DataManager
     pthread_t datamgr_thread;  // data manager thread
     ASSERT_ELSE_PERROR(pthread_create(&datamgr_thread, NULL, datamgr_run, buffer) == 0);
 
+    // ^ StorageManager
     pthread_t storagemgr_thread;  // storage manager thread
     ASSERT_ELSE_PERROR(pthread_create(&storagemgr_thread, NULL, storagemgr_run, buffer) == 0);
 
-    // main server loop
+    // ^ ConnectionManager
     connmgr_listen(port_number, buffer);  // connection manager maken
 
     sbuffer_lock(buffer);
