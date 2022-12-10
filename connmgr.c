@@ -94,6 +94,7 @@ void connmgr_listen(int port_number, sbuffer_t* buffer) {       // werking niet 
                             ASSERT_ELSE_PERROR(write(fd, &data.value, sizeof(data.value)) == sizeof(data.value));
                             ASSERT_ELSE_PERROR(write(fd, &data.ts, sizeof(data.ts)) == sizeof(data.ts));
 #endif
+                            // * print binnengekomen waarde!
                             printf("sensor id = %" PRIu16 " - temperature = %g - timestamp = %ld\n", data.id, data.value, data.ts);
                             sbuffer_lock(buffer);
                             int ret = sbuffer_insert_first(buffer, &data);

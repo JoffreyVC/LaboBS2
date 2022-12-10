@@ -11,6 +11,7 @@
  */
 
 // * https://doc.riot-os.org/pthread__mutex_8h.html voor uitleg over synchronization primitives
+// * https://en.cppreference.com/w/c/atomic voor atomic vars
 
 #ifndef _GNU_SOURCE
     #define _GNU_SOURCE
@@ -109,8 +110,8 @@ int main(int argc, char* argv[]) {      // ^ MAIN
     sbuffer_close(buffer);
     sbuffer_unlock(buffer);
 
-    pthread_join(datamgr_thread, NULL);  // laat threads hier op elkaar wachten
-    pthread_join(storagemgr_thread, NULL);  // same
+    pthread_join(datamgr_thread, NULL);  // main thread wacht hier op datamanager
+    pthread_join(storagemgr_thread, NULL);  // " " op storagemanager
 
     sbuffer_destroy(buffer);  // verwijder buffer
 

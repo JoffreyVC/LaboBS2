@@ -25,7 +25,7 @@ typedef struct {
 } sensor_data_t;
 
 #ifndef TIMEOUT
-    #define TIMEOUT 10
+    #define TIMEOUT 30  // aangepast (kwam van 10) -> makkelijker opstarten
 #endif
 
 typedef unsigned int uint;
