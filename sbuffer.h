@@ -39,6 +39,9 @@ bool sbuffer_is_closed(sbuffer_t* buffer);
 void sbuffer_lock(sbuffer_t* buffer);
 void sbuffer_unlock(sbuffer_t* buffer);
 
+/**  Identificeer wie de storage manager en wie de data manager is  */
+void sbuffer_identify_readers(sbuffer_t* buffer, bool isDataManager );
+
 /**
  * Inserts the sensor data in 'data' at the start of 'buffer' (at the 'head')
  * \param buffer a pointer to the buffer that is used

@@ -1,17 +1,17 @@
 /**
  * \author Mathieu Erbas
  * 
-// ! Red (!)
-// ? Blue (?)
-// * Green (*)
-// ^ Yellow (^)
+// ! Red (!) - werkt nog niet - problemen
+// ? Blue (?) - klopt dit??
+// * Green (*) - haha het werkt
+// ^ Yellow (^) - statement
 // & Pink (&)
 // ~ Purple (~)
 // todo Mustard (todo)
  */
 
-// * https://doc.riot-os.org/pthread__mutex_8h.html voor uitleg over synchronization primitives
-// * https://en.cppreference.com/w/c/atomic voor atomic vars
+// ^ https://doc.riot-os.org/pthread__mutex_8h.html voor uitleg over synchronization primitives
+// ^ https://en.cppreference.com/w/c/atomic voor atomic vars
 
 #ifndef _GNU_SOURCE
     #define _GNU_SOURCE
@@ -43,8 +43,14 @@ static int print_usage() {
 
 static void* datamgr_run(void* buffer) {        // ^ LOOP VOOR DE DATA MANAGER
     datamgr_init();
+    sbuffer_identify_readers(buffer, true);
 
     while (true) {
+        sensor_data_t data = sbuffer_remove_last(buffer);  // neem laatste data
+        datamgr_process_reading(&data); // bekijk data
+
+        /**  GEEN LOCK EN UNLOCK MEER IN LOOPS - UNDER THE HOOD (zie buffer.h)
+
         sbuffer_lock(buffer);
         if (!sbuffer_is_empty(buffer)) {  // buffer niet leeg
             sensor_data_t data = sbuffer_remove_last(buffer);  // neem laatste data
@@ -56,6 +62,7 @@ static void* datamgr_run(void* buffer) {        // ^ LOOP VOOR DE DATA MANAGER
         }
         // give the others a chance to lock the mutex
         sbuffer_unlock(buffer);
+        **/
     }
     // einde programma
     datamgr_free();  
@@ -65,8 +72,13 @@ static void* datamgr_run(void* buffer) {        // ^ LOOP VOOR DE DATA MANAGER
 static void* storagemgr_run(void* buffer) {     // ^ LOOP VOOR DE STORAGE MANAGER
     DBCONN* db = storagemgr_init_connection(1);
     assert(db != NULL);
+    sbuffer_identify_readers(buffer, false);
 
     while (true) {
+        sensor_data_t data = sbuffer_remove_last(buffer);
+        storagemgr_insert_sensor(db, data.id, data.value, data.ts);
+
+        /** GEEN LOCK EN UNLOCK MEER IN LOOPS - UNDER THE HOOD (zie buffer.h)
         sbuffer_lock(buffer);
         if (!sbuffer_is_empty(buffer)) {  // als buffer niet leeg is
             sensor_data_t data = sbuffer_remove_last(buffer);
@@ -78,6 +90,7 @@ static void* storagemgr_run(void* buffer) {     // ^ LOOP VOOR DE STORAGE MANAGE
         }
         // give the others a chance to lock the mutex
         sbuffer_unlock(buffer);
+        **/
     }
     // einde van programma
     storagemgr_disconnect(db);
@@ -107,14 +120,14 @@ int main(int argc, char* argv[]) {
     ASSERT_ELSE_PERROR(pthread_create(&storagemgr_thread, NULL, storagemgr_run, buffer) == 0);
 
     // ^ ConnectionManager
-    connmgr_listen(port_number, buffer);  // connection manager maken
+    connmgr_listen(port_number, buffer);  // deze thread  gaat verder in de connection manager
 
-    sbuffer_lock(buffer);
+    // // sbuffer_lock(buffer);
     sbuffer_close(buffer);
-    sbuffer_unlock(buffer);
+    // // sbuffer_unlock(buffer);
 
-    pthread_join(datamgr_thread, NULL);  // main thread wacht hier op datamanager
-    pthread_join(storagemgr_thread, NULL);  // " " op storagemanager
+    pthread_join(datamgr_thread, NULL);  // connection manager thread wacht hier op datamanager
+    pthread_join(storagemgr_thread, NULL);  // en hier op storagemanager
 
     sbuffer_destroy(buffer);  // verwijder buffer
 
