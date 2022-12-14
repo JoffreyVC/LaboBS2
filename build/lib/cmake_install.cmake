@@ -1,4 +1,4 @@
-# Install script for directory: /home/michiel2002v/laboBS5/LaboBS2/lib
+# Install script for directory: /home/joffreyvc/LaboBS2/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

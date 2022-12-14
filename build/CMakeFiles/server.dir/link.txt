@@ -1,1 +1,1 @@
-/usr/bin/cc -fsanitize=address CMakeFiles/server.dir/main.c.o -o server  -Wl,-rpath,/home/michiel2002v/laboBS5/LaboBS2/build:/home/michiel2002v/laboBS5/LaboBS2/build/lib libusers.so libsbuffer.so -lpthread lib/libvector.so lib/libtcpsock.so -lsqlite3 
+/usr/bin/cc -fsanitize=address CMakeFiles/server.dir/main.c.o -o server  -Wl,-rpath,/home/joffreyvc/LaboBS2/build:/home/joffreyvc/LaboBS2/build/lib libusers.so libsbuffer.so -lpthread lib/libvector.so lib/libtcpsock.so -lsqlite3 

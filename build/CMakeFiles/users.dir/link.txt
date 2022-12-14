@@ -1,1 +1,1 @@
-/usr/bin/cc -fPIC -fsanitize=address -shared -Wl,-soname,libusers.so -o libusers.so CMakeFiles/users.dir/connmgr.c.o CMakeFiles/users.dir/datamgr.c.o CMakeFiles/users.dir/sensor_db.c.o  -Wl,-rpath,/home/michiel2002v/laboBS5/LaboBS2/build/lib lib/libvector.so lib/libtcpsock.so -lsqlite3 
+/usr/bin/cc -fPIC -fsanitize=address -shared -Wl,-soname,libusers.so -o libusers.so CMakeFiles/users.dir/connmgr.c.o CMakeFiles/users.dir/datamgr.c.o CMakeFiles/users.dir/sensor_db.c.o  -Wl,-rpath,/home/joffreyvc/LaboBS2/build/lib lib/libvector.so lib/libtcpsock.so -lsqlite3 

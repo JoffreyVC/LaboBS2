@@ -251,6 +251,7 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
 
         sbuffer_node_t* temp = buffer->tail;
         buffer->tail = buffer->tail->next;
+        temp->next = NULL;
         free(temp);
 
         // Geef buffer terug vrij

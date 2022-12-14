@@ -1,0 +1,17 @@
+*
+!CMakeLists.txt
+!*.c 
+!*.cpp 
+!*.h
+
+!.gitignore
+!.clang-format
+
+!Dockerfile
+!bootstrap.sh
+
+!lib/
+!lib/*
+
+!build/
+!build/*

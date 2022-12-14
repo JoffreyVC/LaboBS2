@@ -1,5 +1,5 @@
-CMakeFiles/server.dir/main.c.o: /home/michiel2002v/laboBS5/LaboBS2/main.c \
- /usr/include/stdc-predef.h /home/michiel2002v/laboBS5/LaboBS2/config.h \
+CMakeFiles/server.dir/main.c.o: /home/joffreyvc/LaboBS2/main.c \
+ /usr/include/stdc-predef.h /home/joffreyvc/LaboBS2/config.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -42,9 +42,8 @@ CMakeFiles/server.dir/main.c.o: /home/michiel2002v/laboBS5/LaboBS2/main.c \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
- /home/michiel2002v/laboBS5/LaboBS2/connmgr.h \
- /home/michiel2002v/laboBS5/LaboBS2/lib/tcpsock.h \
- /home/michiel2002v/laboBS5/LaboBS2/sbuffer.h /usr/include/stdlib.h \
+ /home/joffreyvc/LaboBS2/connmgr.h /home/joffreyvc/LaboBS2/lib/tcpsock.h \
+ /home/joffreyvc/LaboBS2/sbuffer.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
@@ -70,9 +69,9 @@ CMakeFiles/server.dir/main.c.o: /home/michiel2002v/laboBS5/LaboBS2/main.c \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/michiel2002v/laboBS5/LaboBS2/datamgr.h \
- /home/michiel2002v/laboBS5/LaboBS2/sensor_db.h /usr/include/sqlite3.h \
- /usr/include/fcntl.h /usr/include/x86_64-linux-gnu/bits/fcntl.h \
+ /home/joffreyvc/LaboBS2/datamgr.h /home/joffreyvc/LaboBS2/sensor_db.h \
+ /usr/include/sqlite3.h /usr/include/fcntl.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \

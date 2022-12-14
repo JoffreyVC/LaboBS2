@@ -1,7 +1,6 @@
-CMakeFiles/sbuffer.dir/sbuffer.c.o: \
- /home/michiel2002v/laboBS5/LaboBS2/sbuffer.c /usr/include/stdc-predef.h \
- /home/michiel2002v/laboBS5/LaboBS2/sbuffer.h \
- /home/michiel2002v/laboBS5/LaboBS2/config.h /usr/include/assert.h \
+CMakeFiles/sbuffer.dir/sbuffer.c.o: /home/joffreyvc/LaboBS2/sbuffer.c \
+ /usr/include/stdc-predef.h /home/joffreyvc/LaboBS2/sbuffer.h \
+ /home/joffreyvc/LaboBS2/config.h /usr/include/assert.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
