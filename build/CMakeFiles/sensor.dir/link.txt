@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/sensor.dir/sensor_node.c.o -o sensor  -Wl,-rpath,/home/michiel2002v/laboBS5/LaboBS2/build/lib lib/libtcpsock.so 

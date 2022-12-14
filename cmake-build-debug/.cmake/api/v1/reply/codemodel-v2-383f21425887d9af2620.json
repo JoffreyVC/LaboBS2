@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4
+					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-c12f15c6f888b43a891c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						3,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sharedbuffer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "support",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sbuffer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sbuffer-Debug-0f596e55493de07bc7e6.json",
+					"name" : "sbuffer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sensor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sensor-Debug-908c6972d103b30e36ef.json",
+					"name" : "sensor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server-Debug-45f9990d29ffdfaffddd.json",
+					"name" : "server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tcpsock::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-tcpsock-Debug-2f6f2269329c32b77f66.json",
+					"name" : "tcpsock",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "users::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-users-Debug-8ec3ca5db92094eefe09.json",
+					"name" : "users",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "vector::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-vector-Debug-aef5ad530df7d33f3a33.json",
+					"name" : "vector",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+		"source" : "/home/michiel2002v/laboBS5/LaboBS2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

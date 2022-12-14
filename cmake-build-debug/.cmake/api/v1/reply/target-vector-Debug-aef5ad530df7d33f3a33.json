@@ -1,0 +1,143 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/libvector.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_link_options",
+			"add_compile_options",
+			"target_compile_options"
+		],
+		"files" : 
+		[
+			"lib/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fPIC"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fsanitize=address"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-O2"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-ggdb"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "vector_EXPORTS"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "vector::@306ed2d68c6501e8728f",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-fsanitize=address",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "vector",
+	"nameOnDisk" : "libvector.so",
+	"paths" : 
+	{
+		"build" : "lib",
+		"source" : "lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/vector.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

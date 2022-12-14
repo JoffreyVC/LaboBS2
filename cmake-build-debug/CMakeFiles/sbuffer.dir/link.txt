@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -fsanitize=address -shared -Wl,-soname,libsbuffer.so -o libsbuffer.so CMakeFiles/sbuffer.dir/sbuffer.c.o 

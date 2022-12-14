@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -fsanitize=address -shared -Wl,-soname,libvector.so -o libvector.so CMakeFiles/vector.dir/vector.c.o 

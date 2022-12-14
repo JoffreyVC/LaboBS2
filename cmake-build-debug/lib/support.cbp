@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="support"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector">
+				<Option output="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/libvector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 vector"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vector/fast">
+				<Option output="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/libvector.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 vector/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcpsock">
+				<Option output="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/libtcpsock.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 tcpsock"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcpsock/fast">
+				<Option output="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/libtcpsock.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 tcpsock/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/lib/tcpsock.c">
+			<Option target="tcpsock"/>
+		</Unit>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/lib/tcpsock.h">
+			<Option target="tcpsock"/>
+		</Unit>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/lib/vector.c">
+			<Option target="vector"/>
+		</Unit>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/lib/vector.h">
+			<Option target="vector"/>
+		</Unit>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/michiel2002v/laboBS5/LaboBS2/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

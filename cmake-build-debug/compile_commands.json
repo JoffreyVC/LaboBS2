@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc -Dusers_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/users.dir/connmgr.c.o -c /home/michiel2002v/laboBS5/LaboBS2/connmgr.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/connmgr.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc -Dusers_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/users.dir/datamgr.c.o -c /home/michiel2002v/laboBS5/LaboBS2/datamgr.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/datamgr.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc -Dusers_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/users.dir/sensor_db.c.o -c /home/michiel2002v/laboBS5/LaboBS2/sensor_db.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/sensor_db.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc -Dsbuffer_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/sbuffer.dir/sbuffer.c.o -c /home/michiel2002v/laboBS5/LaboBS2/sbuffer.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/sbuffer.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/server.dir/main.c.o -c /home/michiel2002v/laboBS5/LaboBS2/main.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/main.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/sensor.dir/sensor_node.c.o -c /home/michiel2002v/laboBS5/LaboBS2/sensor_node.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/sensor_node.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib",
+  "command": "/usr/bin/cc -Dvector_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/vector.dir/vector.c.o -c /home/michiel2002v/laboBS5/LaboBS2/lib/vector.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/lib/vector.c"
+},
+{
+  "directory": "/home/michiel2002v/laboBS5/LaboBS2/cmake-build-debug/lib",
+  "command": "/usr/bin/cc -Dtcpsock_EXPORTS  -g -fPIC -fsanitize=address -O2 -Wall -Wextra -ggdb -o CMakeFiles/tcpsock.dir/tcpsock.c.o -c /home/michiel2002v/laboBS5/LaboBS2/lib/tcpsock.c",
+  "file": "/home/michiel2002v/laboBS5/LaboBS2/lib/tcpsock.c"
+}
+]

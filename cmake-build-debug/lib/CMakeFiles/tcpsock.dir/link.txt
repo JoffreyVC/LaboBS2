@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -fsanitize=address -shared -Wl,-soname,libtcpsock.so -o libtcpsock.so CMakeFiles/tcpsock.dir/tcpsock.c.o 
