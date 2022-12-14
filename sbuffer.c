@@ -42,7 +42,7 @@ struct sbuffer {
 
 // ---------------------------------------------------------  MAKEN EN INITIALISEREN  ----------------------------------------------------------
 
-// maak node
+// maak nodekkk
 static sbuffer_node_t* create_node(const sensor_data_t* data) {     // maak een node voor in de buffer
     sbuffer_node_t* node = malloc(sizeof(*node));
     *node = (sbuffer_node_t){
@@ -138,7 +138,7 @@ bool sbuffer_is_closed(sbuffer_t* buffer) {     // is de buffer closed?
 }
 
 // ---------------------------------------------------------  TOEVOEGEN  ----------------------------------------------------------
-
+//f
 
 int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {        // insert aan het begin van de buffer
     assert(buffer && data);
@@ -250,7 +250,11 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
         printf(" %f", used_node->data.value);
 
         sbuffer_node_t* temp = buffer->tail;
-        buffer->tail = buffer->tail->next;
+        if (temp->next != NULL) buffer->tail = buffer->tail->next;
+        else {
+            buffer->tail = NULL;
+            buffer->head = NULL;
+        }
         temp->next = NULL;
         free(temp);
 
