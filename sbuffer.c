@@ -61,7 +61,6 @@ sbuffer_t* sbuffer_create() {
     buffer->head = NULL;
     buffer->tail = NULL;
     buffer->closed = false;
-    buffer->aantal = 0;
 
     ASSERT_ELSE_PERROR(pthread_rwlock_init(&buffer->rw_lock, NULL) == 0);               // initialisatie RWlock
     ASSERT_ELSE_PERROR(pthread_cond_init(&(buffer->bufferIsExpanded), NULL) == 0);      // initialisatie CD variabele om wait en signal uit te voeren
