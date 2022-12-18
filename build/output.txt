@@ -1,0 +1,4873 @@
+Connection to SQL server established
+New table SensorData created
+A new sensor with id = 12 has opened a new connection
+sensor id = 12 - temperature = 22.1223 - timestamp = 1671056866
+einde inserted 
+Received sensor data with new sensor node id 12 
+0 
+sensor id = 12 - temperature = 22.443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4577 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9825 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1209 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2682 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3086 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7349 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5225 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9883 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2213 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4079 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6436 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1803 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3911 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.709 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3696 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1896 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4322 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3224 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7998 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3203 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1556 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2202 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6125 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6028 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0768 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.25 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.333 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4298 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7236 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6229 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2328 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5521 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0881 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.346 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.204 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6671 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2109 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3915 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9969 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2745 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1399 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4819 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7944 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3664 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5247 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9986 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8889 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7856 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6481 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5166 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4373 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6359 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0673 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8761 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5634 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9698 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4551 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7262 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7278 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0078 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6816 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7988 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9014 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.617 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4954 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9617 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6437 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5716 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7216 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5147 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2233 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3875 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9192 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5252 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.837 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3505 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3572 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0735 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9598 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3426 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4848 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0723 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3917 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8503 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6301 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8584 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3073 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8658 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6055 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8469 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.594 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9632 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8168 - timestamp = 1671056866
+einde inserted 
+95 
+sensor id = 12 - temperature = 22.7917 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5489 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.381 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5523 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7493 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2407 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7119 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1217 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6361 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2546 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7028 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3274 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7594 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2204 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3482 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9907 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8347 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8445 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.131 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0617 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8877 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.132 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8977 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0927 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3677 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1626 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0982 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6219 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2902 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5861 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5889 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.516 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1431 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8188 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.447 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0722 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7281 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2777 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9311 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7169 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2236 - timestamp = 1671056866
+einde inserted 
+136 
+sensor id = 12 - temperature = 21.0078 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7294 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2033 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.624 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4943 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3159 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2525 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9178 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1811 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4523 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8678 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8468 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1773 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2912 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.051 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6847 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.245 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0418 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8544 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2187 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5238 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7667 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2585 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7373 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1039 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.714 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7586 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5177 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4269 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8386 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8751 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9966 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3707 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3187 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8038 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4904 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8686 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5101 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9535 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0939 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6445 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5631 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5327 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6984 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8755 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.975 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1947 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6598 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0608 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.131 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.3902 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.5254 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.525442) higher than 25
+sensor id = 12 - temperature = 25.5816 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.581596) higher than 25
+sensor id = 12 - temperature = 25.8161 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.816103) higher than 25
+190 
+sensor id = 12 - temperature = 25.817 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.817018) higher than 25
+sensor id = 12 - temperature = 25.9848 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.984784) higher than 25
+sensor id = 12 - temperature = 26.3486 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.348637) higher than 25
+sensor id = 12 - temperature = 26.2604 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.260445) higher than 25
+sensor id = 12 - temperature = 26.6864 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.686364) higher than 25
+sensor id = 12 - temperature = 26.456 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.455999) higher than 25
+sensor id = 12 - temperature = 26.2787 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.278659) higher than 25
+sensor id = 12 - temperature = 26.2427 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.242675) higher than 25
+sensor id = 12 - temperature = 26.6379 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.637893) higher than 25
+sensor id = 12 - temperature = 26.3362 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.336159) higher than 25
+sensor id = 12 - temperature = 26.7523 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.752288) higher than 25
+sensor id = 12 - temperature = 27.1342 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.134191) higher than 25
+sensor id = 12 - temperature = 27.023 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.023039) higher than 25
+sensor id = 12 - temperature = 27.3189 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.318887) higher than 25
+sensor id = 12 - temperature = 26.8463 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.846262) higher than 25
+sensor id = 12 - temperature = 26.685 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.685000) higher than 25
+sensor id = 12 - temperature = 26.6302 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.630229) higher than 25
+sensor id = 12 - temperature = 26.2197 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.219663) higher than 25
+sensor id = 12 - temperature = 26.4858 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.485823) higher than 25
+sensor id = 12 - temperature = 26.907 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.906957) higher than 25
+sensor id = 12 - temperature = 27.1659 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.165920) higher than 25
+sensor id = 12 - temperature = 27.1104 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.110408) higher than 25
+sensor id = 12 - temperature = 27.1348 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.134787) higher than 25
+sensor id = 12 - temperature = 27.1197 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.119686) higher than 25
+sensor id = 12 - temperature = 27.038 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.037990) higher than 25
+sensor id = 12 - temperature = 26.9745 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.974480) higher than 25
+sensor id = 12 - temperature = 26.5433 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.543275) higher than 25
+sensor id = 12 - temperature = 26.2368 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.236762) higher than 25
+sensor id = 12 - temperature = 25.827 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.826961) higher than 25
+sensor id = 12 - temperature = 25.9728 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.972776) higher than 25
+sensor id = 12 - temperature = 26.419 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.419030) higher than 25
+sensor id = 12 - temperature = 26.5258 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.525813) higher than 25
+sensor id = 12 - temperature = 26.3525 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.352485) higher than 25
+sensor id = 12 - temperature = 26.6781 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.678117) higher than 25
+sensor id = 12 - temperature = 26.2147 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.214656) higher than 25
+sensor id = 12 - temperature = 25.9876 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.987604) higher than 25
+sensor id = 12 - temperature = 25.6056 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.605628) higher than 25
+sensor id = 12 - temperature = 25.49 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.489970) higher than 25
+sensor id = 12 - temperature = 25.7495 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.749450) higher than 25
+sensor id = 12 - temperature = 25.2826 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.282597) higher than 25
+sensor id = 12 - temperature = 25.3875 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.387509) higher than 25
+sensor id = 12 - temperature = 25.5828 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.582812) higher than 25
+sensor id = 12 - temperature = 26.02 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.019955) higher than 25
+sensor id = 12 - temperature = 25.5332 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.533200) higher than 25
+sensor id = 12 - temperature = 25.5462 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.546238) higher than 25
+sensor id = 12 - temperature = 25.035 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.035033) higher than 25
+sensor id = 12 - temperature = 24.9137 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.913671) higher than 25
+sensor id = 12 - temperature = 25.396 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.395962) higher than 25
+sensor id = 12 - temperature = 24.9956 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.995593) higher than 25
+sensor id = 12 - temperature = 24.6592 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0838 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.083813) higher than 25
+sensor id = 12 - temperature = 25.466 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.466002) higher than 25
+sensor id = 12 - temperature = 25.5951 - timestamp = 1671056866
+241 
+einde inserted 
+Sensor 12 read a temperature value (25.595062) higher than 25
+sensor id = 12 - temperature = 25.5624 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.562440) higher than 25
+sensor id = 12 - temperature = 25.4503 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.450309) higher than 25
+sensor id = 12 - temperature = 25.0209 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.020850) higher than 25
+sensor id = 12 - temperature = 25.4503 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.450278) higher than 25
+sensor id = 12 - temperature = 25.4299 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.429876) higher than 25
+sensor id = 12 - temperature = 25.2142 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.214223) higher than 25
+sensor id = 12 - temperature = 24.7516 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.751567) higher than 25
+sensor id = 12 - temperature = 24.3971 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.397107) higher than 25
+sensor id = 12 - temperature = 24.1502 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3193 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3138 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9122 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1399 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4268 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1601 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7864 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8496 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6352 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8829 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6553 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3944 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6742 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9758 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7174 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3869 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6843 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5415 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3879 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6207 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3733 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8645 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5778 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7337 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3084 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9665 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6199 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4991 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2122 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0261 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1709 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.563 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8787 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1268 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2488 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3562 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8449 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0978 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7706 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5495 - timestamp = 1671056866
+einde inserted 
+290 
+sensor id = 12 - temperature = 23.5574 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5122 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5373 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3295 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0929 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3691 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3377 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9029 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5431 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8675 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1723 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0694 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3866 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.909 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4687 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8698 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5569 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2741 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.056 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9603 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9929 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4187 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2115 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.059 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2343 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6532 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1097 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2727 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.446 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0793 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5278 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.213 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3075 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.285 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2688 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6305 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3856 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8418 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2701 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1642 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4411 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6731 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9656 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0586 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.3144 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.6653 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.665347) higher than 25
+sensor id = 12 - temperature = 25.6558 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.655801) higher than 25
+sensor id = 12 - temperature = 26.0976 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.097564) higher than 25
+sensor id = 12 - temperature = 25.6621 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.662050) higher than 25
+sensor id = 12 - temperature = 25.9333 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.933299) higher than 25
+sensor id = 12 - temperature = 25.7757 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.775742) higher than 25
+340 
+sensor id = 12 - temperature = 25.8718 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.871756) higher than 25
+sensor id = 12 - temperature = 26.0652 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.065176) higher than 25
+sensor id = 12 - temperature = 26.1994 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.199396) higher than 25
+sensor id = 12 - temperature = 26.6393 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.639305) higher than 25
+sensor id = 12 - temperature = 26.5021 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.502057) higher than 25
+sensor id = 12 - temperature = 26.5516 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.551623) higher than 25
+sensor id = 12 - temperature = 26.947 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.947002) higher than 25
+sensor id = 12 - temperature = 26.4743 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.474304) higher than 25
+sensor id = 12 - temperature = 26.2012 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.201225) higher than 25
+sensor id = 12 - temperature = 25.7364 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.736356) higher than 25
+sensor id = 12 - temperature = 25.2211 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.221085) higher than 25
+sensor id = 12 - temperature = 25.1446 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.144589) higher than 25
+sensor id = 12 - temperature = 25.2831 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.283065) higher than 25
+sensor id = 12 - temperature = 25.2516 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.251641) higher than 25
+sensor id = 12 - temperature = 25.6627 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.662673) higher than 25
+sensor id = 12 - temperature = 25.6642 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.664180) higher than 25
+sensor id = 12 - temperature = 25.8916 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.891585) higher than 25
+sensor id = 12 - temperature = 26.26 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.260036) higher than 25
+sensor id = 12 - temperature = 26.1936 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.193592) higher than 25
+sensor id = 12 - temperature = 25.8213 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.821297) higher than 25
+sensor id = 12 - temperature = 25.9753 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.975304) higher than 25
+sensor id = 12 - temperature = 25.652 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.652014) higher than 25
+sensor id = 12 - temperature = 26.0858 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.085751) higher than 25
+sensor id = 12 - temperature = 25.8438 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.843763) higher than 25
+sensor id = 12 - temperature = 26.2897 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.289686) higher than 25
+sensor id = 12 - temperature = 26.5853 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.585285) higher than 25
+sensor id = 12 - temperature = 26.8471 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.847079) higher than 25
+sensor id = 12 - temperature = 27.2455 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.245529) higher than 25
+sensor id = 12 - temperature = 27.6188 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.618823) higher than 25
+sensor id = 12 - temperature = 27.6625 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.662509) higher than 25
+sensor id = 12 - temperature = 27.4165 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.416489) higher than 25
+sensor id = 12 - temperature = 27.4013 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.401321) higher than 25
+sensor id = 12 - temperature = 27.1564 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.156374) higher than 25
+sensor id = 12 - temperature = 27.5649 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.564931) higher than 25
+sensor id = 12 - temperature = 27.5074 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.507427) higher than 25
+sensor id = 12 - temperature = 27.6454 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.645397) higher than 25
+sensor id = 12 - temperature = 27.6211 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.621086) higher than 25
+sensor id = 12 - temperature = 27.4789 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.478938) higher than 25
+sensor id = 12 - temperature = 27.6666 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.666588) higher than 25
+sensor id = 12 - temperature = 27.889 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.888963) higher than 25
+sensor id = 12 - temperature = 27.7991 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.799113) higher than 25
+380 
+sensor id = 12 - temperature = 27.9861 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.986073) higher than 25
+sensor id = 12 - temperature = 27.644 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.643960) higher than 25
+sensor id = 12 - temperature = 27.207 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.207034) higher than 25
+sensor id = 12 - temperature = 26.8794 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.879445) higher than 25
+sensor id = 12 - temperature = 26.4677 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.467656) higher than 25
+sensor id = 12 - temperature = 26.5539 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.553931) higher than 25
+sensor id = 12 - temperature = 26.9728 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.972834) higher than 25
+sensor id = 12 - temperature = 27.446 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.445988) higher than 25
+sensor id = 12 - temperature = 26.9797 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.979727) higher than 25
+sensor id = 12 - temperature = 26.5427 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.542673) higher than 25
+sensor id = 12 - temperature = 26.6886 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.688591) higher than 25
+sensor id = 12 - temperature = 26.4202 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.420205) higher than 25
+sensor id = 12 - temperature = 25.9354 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.935445) higher than 25
+sensor id = 12 - temperature = 26.3603 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.360340) higher than 25
+sensor id = 12 - temperature = 26.0562 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.056236) higher than 25
+sensor id = 12 - temperature = 26.3878 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.387845) higher than 25
+sensor id = 12 - temperature = 26.5927 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.592698) higher than 25
+sensor id = 12 - temperature = 26.2076 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.207617) higher than 25
+sensor id = 12 - temperature = 26.4355 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.435491) higher than 25
+sensor id = 12 - temperature = 26.2094 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.209385) higher than 25
+sensor id = 12 - temperature = 26.106 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.106015) higher than 25
+sensor id = 12 - temperature = 25.8438 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.843811) higher than 25
+sensor id = 12 - temperature = 25.9002 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.900223) higher than 25
+sensor id = 12 - temperature = 25.7302 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.730237) higher than 25
+sensor id = 12 - temperature = 25.9377 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.937733) higher than 25
+sensor id = 12 - temperature = 25.6567 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.656682) higher than 25
+sensor id = 12 - temperature = 25.9893 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.989330) higher than 25
+sensor id = 12 - temperature = 25.579 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.578988) higher than 25
+sensor id = 12 - temperature = 26.0123 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.012275) higher than 25
+sensor id = 12 - temperature = 26.0914 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.091353) higher than 25
+sensor id = 12 - temperature = 26.1176 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.117596) higher than 25
+sensor id = 12 - temperature = 26.2616 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.261646) higher than 25
+sensor id = 12 - temperature = 26.5248 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.524794) higher than 25
+sensor id = 12 - temperature = 26.6377 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.637664) higher than 25
+sensor id = 12 - temperature = 26.9751 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.975059) higher than 25
+sensor id = 12 - temperature = 27.3447 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.344749) higher than 25
+415 
+sensor id = 12 - temperature = 27.0596 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.059632) higher than 25
+sensor id = 12 - temperature = 27.3341 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.334091) higher than 25
+sensor id = 12 - temperature = 27.6975 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.697503) higher than 25
+sensor id = 12 - temperature = 27.4691 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.469092) higher than 25
+sensor id = 12 - temperature = 27.8268 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.826847) higher than 25
+sensor id = 12 - temperature = 27.8539 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.853927) higher than 25
+sensor id = 12 - temperature = 27.8773 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.877290) higher than 25
+sensor id = 12 - temperature = 28.2678 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.267847) higher than 25
+sensor id = 12 - temperature = 28.2348 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.234793) higher than 25
+sensor id = 12 - temperature = 28.4714 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.471450) higher than 25
+sensor id = 12 - temperature = 28.7084 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.708425) higher than 25
+sensor id = 12 - temperature = 28.3975 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.397461) higher than 25
+sensor id = 12 - temperature = 28.7687 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.768687) higher than 25
+sensor id = 12 - temperature = 28.7506 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.750588) higher than 25
+sensor id = 12 - temperature = 28.733 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.732985) higher than 25
+sensor id = 12 - temperature = 28.5177 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.517710) higher than 25
+sensor id = 12 - temperature = 28.7567 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.756692) higher than 25
+sensor id = 12 - temperature = 28.3122 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.312189) higher than 25
+sensor id = 12 - temperature = 28.446 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.446034) higher than 25
+sensor id = 12 - temperature = 28.409 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.409021) higher than 25
+sensor id = 12 - temperature = 28.2024 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.202395) higher than 25
+sensor id = 12 - temperature = 28.1852 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.185220) higher than 25
+sensor id = 12 - temperature = 28.2566 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.256616) higher than 25
+sensor id = 12 - temperature = 27.9994 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.999433) higher than 25
+sensor id = 12 - temperature = 27.5799 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.579913) higher than 25
+sensor id = 12 - temperature = 27.1985 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.198535) higher than 25
+sensor id = 12 - temperature = 27.6088 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.608780) higher than 25
+sensor id = 12 - temperature = 27.9732 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.973170) higher than 25
+sensor id = 12 - temperature = 28.2228 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.222819) higher than 25
+sensor id = 12 - temperature = 28.486 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.486027) higher than 25
+sensor id = 12 - temperature = 28.7381 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.738096) higher than 25
+sensor id = 12 - temperature = 28.223 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.223027) higher than 25
+sensor id = 12 - temperature = 28.2835 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.283491) higher than 25
+sensor id = 12 - temperature = 28.4242 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.424154) higher than 25
+sensor id = 12 - temperature = 28.2082 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.208232) higher than 25
+sensor id = 12 - temperature = 28.1514 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.151370) higher than 25
+sensor id = 12 - temperature = 27.8464 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.846409) higher than 25
+sensor id = 12 - temperature = 28.1835 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.183508) higher than 25
+sensor id = 12 - temperature = 28.0442 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.044213) higher than 25
+sensor id = 12 - temperature = 28.2356 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.235572) higher than 25
+sensor id = 12 - temperature = 28.3361 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.336057) higher than 25
+sensor id = 12 - temperature = 27.9628 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.962831) higher than 25
+sensor id = 12 - temperature = 28.3747 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.374675) higher than 25
+sensor id = 12 - temperature = 28.3752 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.375179) higher than 25
+sensor id = 12 - temperature = 28.515 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.515002) higher than 25
+sensor id = 12 - temperature = 28.4377 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.437734) higher than 25
+sensor id = 12 - temperature = 28.7538 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.753813) higher than 25
+sensor id = 12 - temperature = 28.6608 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.660813) higher than 25
+sensor id = 12 - temperature = 28.6696 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.669597) higher than 25
+sensor id = 12 - temperature = 28.6474 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.647422) higher than 25
+464 
+sensor id = 12 - temperature = 29.0477 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (29.047671) higher than 25
+sensor id = 12 - temperature = 29.3774 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (29.377440) higher than 25
+sensor id = 12 - temperature = 28.8631 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.863063) higher than 25
+sensor id = 12 - temperature = 28.8621 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.862056) higher than 25
+sensor id = 12 - temperature = 28.4644 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.464354) higher than 25
+sensor id = 12 - temperature = 28.0625 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.062519) higher than 25
+sensor id = 12 - temperature = 28.2095 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.209536) higher than 25
+sensor id = 12 - temperature = 27.7488 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.748834) higher than 25
+sensor id = 12 - temperature = 27.2405 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.240510) higher than 25
+sensor id = 12 - temperature = 27.1687 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.168653) higher than 25
+sensor id = 12 - temperature = 27.505 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.504977) higher than 25
+sensor id = 12 - temperature = 27.7799 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.779872) higher than 25
+sensor id = 12 - temperature = 27.7214 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.721440) higher than 25
+sensor id = 12 - temperature = 27.6441 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.644078) higher than 25
+sensor id = 12 - temperature = 27.5879 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.587859) higher than 25
+sensor id = 12 - temperature = 27.8441 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.844085) higher than 25
+sensor id = 12 - temperature = 28.2378 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.237790) higher than 25
+sensor id = 12 - temperature = 28.4019 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.401897) higher than 25
+sensor id = 12 - temperature = 28.5179 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.517884) higher than 25
+sensor id = 12 - temperature = 28.2973 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.297342) higher than 25
+sensor id = 12 - temperature = 28.1802 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.180232) higher than 25
+sensor id = 12 - temperature = 27.9265 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.926490) higher than 25
+sensor id = 12 - temperature = 27.8649 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.864860) higher than 25
+sensor id = 12 - temperature = 27.6891 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.689070) higher than 25
+sensor id = 12 - temperature = 27.9677 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.967661) higher than 25
+sensor id = 12 - temperature = 27.575 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.575024) higher than 25
+sensor id = 12 - temperature = 27.8535 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.853491) higher than 25
+sensor id = 12 - temperature = 27.977 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.977027) higher than 25
+sensor id = 12 - temperature = 28.0226 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (28.022612) higher than 25
+sensor id = 12 - temperature = 27.8384 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.838430) higher than 25
+sensor id = 12 - temperature = 27.4707 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.470714) higher than 25
+sensor id = 12 - temperature = 27.4498 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.449817) higher than 25
+sensor id = 12 - temperature = 27.131 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.131006) higher than 25
+sensor id = 12 - temperature = 26.7868 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.786838) higher than 25
+sensor id = 12 - temperature = 26.3002 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.300168) higher than 25
+sensor id = 12 - temperature = 26.1212 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.121213) higher than 25
+sensor id = 12 - temperature = 25.9101 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.910081) higher than 25
+sensor id = 12 - temperature = 26.1026 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.102624) higher than 25
+sensor id = 12 - temperature = 25.9925 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.992502) higher than 25
+sensor id = 12 - temperature = 25.7999 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.799934) higher than 25
+sensor id = 12 - temperature = 25.4449 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.444874) higher than 25
+sensor id = 12 - temperature = 25.1977 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.197709) higher than 25
+sensor id = 12 - temperature = 24.809 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.809034) higher than 25
+sensor id = 12 - temperature = 24.9269 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.926895) higher than 25
+sensor id = 12 - temperature = 25.1311 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.131066) higher than 25
+sensor id = 12 - temperature = 25.2122 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.212225) higher than 25
+sensor id = 12 - temperature = 25.1097 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.109736) higher than 25
+sensor id = 12 - temperature = 25.2334 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.233417) higher than 25
+sensor id = 12 - temperature = 25.0069 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.006860) higher than 25
+sensor id = 12 - temperature = 24.5509 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.550895) higher than 25
+sensor id = 12 - temperature = 24.9869 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.1735 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9913 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8907 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4287 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0548 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0936 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4394 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7158 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3242 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0124 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4498 - timestamp = 1671056866
+einde inserted 
+525 
+sensor id = 12 - temperature = 24.5635 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4564 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0707 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.221 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4557 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3769 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2353 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8778 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1268 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1478 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0583 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4313 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0802 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7073 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6763 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7401 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0057 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2603 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3778 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5864 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5371 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9844 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6018 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6024 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1852 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.353 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2088 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5796 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8649 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.9154 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.2277 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.1332 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.5856 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.585571) higher than 25
+sensor id = 12 - temperature = 26.0185 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.018537) higher than 25
+sensor id = 12 - temperature = 25.5783 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.578281) higher than 25
+sensor id = 12 - temperature = 25.7717 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.771696) higher than 25
+sensor id = 12 - temperature = 25.6347 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.634738) higher than 25
+sensor id = 12 - temperature = 25.5642 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.564168) higher than 25
+sensor id = 12 - temperature = 25.9088 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.908821) higher than 25
+sensor id = 12 - temperature = 25.5271 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.527078) higher than 25
+sensor id = 12 - temperature = 25.9863 - timestamp = 1671056866
+564 
+einde inserted 
+Sensor 12 read a temperature value (25.986253) higher than 25
+sensor id = 12 - temperature = 25.7475 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.747522) higher than 25
+sensor id = 12 - temperature = 25.2473 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.247299) higher than 25
+sensor id = 12 - temperature = 24.8665 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.866487) higher than 25
+sensor id = 12 - temperature = 24.7684 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.768386) higher than 25
+sensor id = 12 - temperature = 24.7481 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.748087) higher than 25
+sensor id = 12 - temperature = 24.9395 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6128 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3554 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.175 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5701 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7741 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.549 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0722 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7897 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6629 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8667 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9504 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.702 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7014 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3482 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9272 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3496 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9637 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.493 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.995 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3246 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2365 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1849 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3735 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4205 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3422 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8088 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8696 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.922 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7994 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3514 - timestamp = 1671056866
+einde inserted 
+600 
+sensor id = 12 - temperature = 22.109 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1759 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9841 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0724 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0431 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5663 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.943 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9477 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6968 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4525 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1693 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5128 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5283 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7501 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2434 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3385 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4809 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0888 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2164 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3613 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7969 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.332 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9233 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0482 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1334 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.147 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2366 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8833 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4524 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9249 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6266 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4538 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4913 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5017 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9153 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4191 - timestamp = 1671056866
+einde inserted 
+635 
+sensor id = 12 - temperature = 21.4508 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7367 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7432 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0196 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5544 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7733 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8865 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9324 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8664 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9687 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6081 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1853 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3988 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6666 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8868 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0318 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.333 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6404 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4036 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.286 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1054 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4591 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4865 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3709 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6905 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9156 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1207 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9689 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6979 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8127 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6633 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9202 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8145 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1677 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1948 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.12 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.186 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8224 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2925 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7888 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0262 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.632 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2043 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1516 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5241 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.813 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3992 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5693 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6646 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5154 - timestamp = 1671056866
+einde inserted 
+684 
+sensor id = 12 - temperature = 22.0668 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4829 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1863 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2666 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.066 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5905 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3997 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9107 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7924 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8369 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9665 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0002 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5254 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6159 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9494 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9036 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5613 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0349 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9604 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.618 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8302 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8651 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5962 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2544 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.1629 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.6865 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.437 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.0191 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.019133) lower than 20
+sensor id = 12 - temperature = 19.1442 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.144159) lower than 20
+sensor id = 12 - temperature = 19.2489 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.248930) lower than 20
+sensor id = 12 - temperature = 18.8835 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.883501) lower than 20
+sensor id = 12 - temperature = 18.9232 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.923173) lower than 20
+sensor id = 12 - temperature = 19.2324 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.232394) lower than 20
+sensor id = 12 - temperature = 19.4457 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.445710) lower than 20
+sensor id = 12 - temperature = 19.7809 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.780870) lower than 20
+sensor id = 12 - temperature = 20.1082 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.108161) lower than 20
+sensor id = 12 - temperature = 19.6218 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.621751) lower than 20
+sensor id = 12 - temperature = 19.9615 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.961525) lower than 20
+sensor id = 12 - temperature = 19.6616 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.661578) lower than 20
+sensor id = 12 - temperature = 19.7134 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.713434) lower than 20
+sensor id = 12 - temperature = 19.674 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.674026) lower than 20
+sensor id = 12 - temperature = 20.1013 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.101311) lower than 20
+sensor id = 12 - temperature = 20.4447 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.444686) lower than 20
+sensor id = 12 - temperature = 20.4193 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4235 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5894 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0097 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1607 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2867 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1218 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4221 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2497 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6114 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1322 - timestamp = 1671056866
+einde inserted 
+738 
+sensor id = 12 - temperature = 21.1099 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8696 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4061 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6237 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4527 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5989 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4036 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.352 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0203 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.6192 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.2685 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.268545) lower than 20
+sensor id = 12 - temperature = 19.7621 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.762109) lower than 20
+sensor id = 12 - temperature = 20.176 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.175993) lower than 20
+sensor id = 12 - temperature = 19.8242 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.824197) lower than 20
+sensor id = 12 - temperature = 20.1404 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.140366) lower than 20
+sensor id = 12 - temperature = 19.7397 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.739719) lower than 20
+sensor id = 12 - temperature = 19.9278 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.927768) lower than 20
+sensor id = 12 - temperature = 19.6901 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.690079) lower than 20
+sensor id = 12 - temperature = 19.2048 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.204839) lower than 20
+sensor id = 12 - temperature = 19.2269 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.226943) lower than 20
+sensor id = 12 - temperature = 19.4571 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.457130) lower than 20
+sensor id = 12 - temperature = 19.4668 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.466837) lower than 20
+sensor id = 12 - temperature = 19.1431 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.143082) lower than 20
+sensor id = 12 - temperature = 19.2845 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.284531) lower than 20
+sensor id = 12 - temperature = 18.9386 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.938579) lower than 20
+sensor id = 12 - temperature = 19.2368 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.236823) lower than 20
+sensor id = 12 - temperature = 19.7068 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.706779) lower than 20
+sensor id = 12 - temperature = 20.1521 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.152142) lower than 20
+sensor id = 12 - temperature = 19.7665 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.766489) lower than 20
+sensor id = 12 - temperature = 20.0893 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.089326) lower than 20
+sensor id = 12 - temperature = 20.5491 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6323 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2036 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6911 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4807 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3724 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.495 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5808 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.91 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1875 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3563 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8165 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0668 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1315 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7244 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.778 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9316 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1998 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5004 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6512 - timestamp = 1671056866
+einde inserted 
+787 
+sensor id = 12 - temperature = 22.4214 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4348 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0803 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0145 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6545 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4419 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1597 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7577 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.481 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3062 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7176 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3888 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7879 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2589 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9034 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5805 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4341 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6947 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9487 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.62 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6492 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5656 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.1934 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.9716 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4539 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.1734 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5014 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6309 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.115 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2374 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.014 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7671 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4042 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3302 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5188 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2947 - timestamp = 1671056866
+einde inserted 
+822 
+sensor id = 12 - temperature = 20.5044 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9047 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.77 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1919 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9039 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6695 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2542 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.8595 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.5928 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.3212 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.321173) lower than 20
+sensor id = 12 - temperature = 19.1002 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.100224) lower than 20
+sensor id = 12 - temperature = 19.1813 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.181316) lower than 20
+sensor id = 12 - temperature = 19.6621 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.662070) lower than 20
+sensor id = 12 - temperature = 19.1843 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.184311) lower than 20
+sensor id = 12 - temperature = 19.4286 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.428594) lower than 20
+sensor id = 12 - temperature = 19.4279 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.427882) lower than 20
+sensor id = 12 - temperature = 19.3584 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.358438) lower than 20
+sensor id = 12 - temperature = 19.72 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.720014) lower than 20
+sensor id = 12 - temperature = 19.9845 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.984504) lower than 20
+sensor id = 12 - temperature = 19.8819 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.881866) lower than 20
+sensor id = 12 - temperature = 19.4501 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.450126) lower than 20
+sensor id = 12 - temperature = 19.5323 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.532301) lower than 20
+sensor id = 12 - temperature = 19.0515 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.051512) lower than 20
+sensor id = 12 - temperature = 18.5986 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.598610) lower than 20
+sensor id = 12 - temperature = 18.3005 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.300504) lower than 20
+sensor id = 12 - temperature = 18.0962 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.096173) lower than 20
+sensor id = 12 - temperature = 17.8937 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.893746) lower than 20
+sensor id = 12 - temperature = 17.7276 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.727575) lower than 20
+sensor id = 12 - temperature = 17.9416 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.941609) lower than 20
+sensor id = 12 - temperature = 18.4177 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.417747) lower than 20
+sensor id = 12 - temperature = 18.515 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.514977) lower than 20
+sensor id = 12 - temperature = 18.4237 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.423749) lower than 20
+sensor id = 12 - temperature = 18.7878 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.787798) lower than 20
+sensor id = 12 - temperature = 19.2405 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.240451) lower than 20
+sensor id = 12 - temperature = 19.0588 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.058840) lower than 20
+sensor id = 12 - temperature = 18.6252 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 18.3363 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.625172) lower than 20
+Sensor 12 read a temperature value (18.336334) lower than 20
+sensor id = 12 - temperature = 18.2348 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.234784) lower than 20
+sensor id = 12 - temperature = 17.8992 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.899249) lower than 20
+sensor id = 12 - temperature = 17.8341 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.834123) lower than 20
+sensor id = 12 - temperature = 17.949 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.948953) lower than 20
+sensor id = 12 - temperature = 17.878 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (17.878005) lower than 20
+sensor id = 12 - temperature = 18.3771 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.377078) lower than 20
+sensor id = 12 - temperature = 18.4534 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.453354) lower than 20
+sensor id = 12 - temperature = 18.3879 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.387934) lower than 20
+sensor id = 12 - temperature = 18.6122 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.612162) lower than 20
+sensor id = 12 - temperature = 18.1712 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.171194) lower than 20
+sensor id = 12 - temperature = 18.5224 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.522380) lower than 20
+sensor id = 12 - temperature = 18.5918 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.591804) lower than 20
+sensor id = 12 - temperature = 18.9015 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.901529) lower than 20
+sensor id = 12 - temperature = 18.6338 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.633847) lower than 20
+872 
+sensor id = 12 - temperature = 18.7579 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.757883) lower than 20
+sensor id = 12 - temperature = 18.6337 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.633703) lower than 20
+sensor id = 12 - temperature = 18.3717 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.371733) lower than 20
+sensor id = 12 - temperature = 18.5269 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.526935) lower than 20
+sensor id = 12 - temperature = 18.5863 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.586297) lower than 20
+sensor id = 12 - temperature = 18.5992 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (18.599236) lower than 20
+sensor id = 12 - temperature = 19.0289 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.028854) lower than 20
+sensor id = 12 - temperature = 19.3965 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.396503) lower than 20
+sensor id = 12 - temperature = 19.0956 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.095564) lower than 20
+sensor id = 12 - temperature = 19.476 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.476046) lower than 20
+sensor id = 12 - temperature = 19.4183 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.418278) lower than 20
+sensor id = 12 - temperature = 19.5061 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.506076) lower than 20
+sensor id = 12 - temperature = 19.7282 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.728174) lower than 20
+sensor id = 12 - temperature = 19.6032 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.603238) lower than 20
+sensor id = 12 - temperature = 19.9922 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (19.992202) lower than 20
+sensor id = 12 - temperature = 20.261 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.260995) lower than 20
+sensor id = 12 - temperature = 20.3252 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (20.325183) lower than 20
+sensor id = 12 - temperature = 20.0882 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4996 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9745 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3257 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1373 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5849 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4888 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7139 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8623 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8044 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8574 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5546 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2884 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5584 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8618 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9512 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4365 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3701 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9964 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9749 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.821 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3003 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4608 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1679 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0726 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8067 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2241 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4898 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0962 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2685 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0869 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9475 - timestamp = 1671056866
+einde inserted 
+920 
+sensor id = 12 - temperature = 22.0199 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8044 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.51 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8903 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6163 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7221 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8213 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1922 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.734 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3827 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9498 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7269 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1446 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5116 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.872 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2666 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0612 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5446 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4118 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5491 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0059 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5304 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.874 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7322 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4899 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7477 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3709 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2368 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1661 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1095 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3352 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8337 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0558 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4789 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.847 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.287 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3053 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2646 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.57 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6271 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7298 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0943 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.4182 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.4257 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.425711) higher than 25
+sensor id = 12 - temperature = 25.6469 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.646946) higher than 25
+sensor id = 12 - temperature = 25.8235 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.823505) higher than 25
+sensor id = 12 - temperature = 25.7205 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.720483) higher than 25
+sensor id = 12 - temperature = 25.2337 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.233738) higher than 25
+967 
+sensor id = 12 - temperature = 25.3935 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.393497) higher than 25
+sensor id = 12 - temperature = 25.6601 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.660051) higher than 25
+sensor id = 12 - temperature = 25.8105 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.810508) higher than 25
+sensor id = 12 - temperature = 25.9245 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.924469) higher than 25
+sensor id = 12 - temperature = 26.2153 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.215313) higher than 25
+sensor id = 12 - temperature = 26.2068 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.206761) higher than 25
+sensor id = 12 - temperature = 26.6789 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.678891) higher than 25
+sensor id = 12 - temperature = 26.2248 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.224814) higher than 25
+sensor id = 12 - temperature = 25.974 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.973976) higher than 25
+sensor id = 12 - temperature = 25.5717 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.571691) higher than 25
+sensor id = 12 - temperature = 25.4884 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.488389) higher than 25
+sensor id = 12 - temperature = 25.6692 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.669242) higher than 25
+sensor id = 12 - temperature = 25.7102 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.710162) higher than 25
+sensor id = 12 - temperature = 25.3499 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.349908) higher than 25
+sensor id = 12 - temperature = 25.5291 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.529105) higher than 25
+sensor id = 12 - temperature = 25.2945 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.294532) higher than 25
+sensor id = 12 - temperature = 24.8622 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.862211) higher than 25
+sensor id = 12 - temperature = 24.9168 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.916828) higher than 25
+sensor id = 12 - temperature = 24.6321 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.632070) higher than 25
+sensor id = 12 - temperature = 24.7303 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2539 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7867 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4567 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5999 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0116 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5173 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1824 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.332 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5334 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.612 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7889 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6614 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5204 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.364 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8691 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5401 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8985 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3967 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1368 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7651 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.384 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5612 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8882 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0632 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3929 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4091 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8621 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2694 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8477 - timestamp = 1671056866
+1014 
+einde inserted 
+sensor id = 12 - temperature = 22.5258 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5437 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1604 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8835 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.081 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3481 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9874 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1976 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6344 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9253 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8363 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8537 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8259 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1164 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4971 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8149 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1098 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6584 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.834 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.129 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9171 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2179 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6262 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0834 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.2007 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.276 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.5575 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.557489) higher than 25
+sensor id = 12 - temperature = 25.1881 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.188051) higher than 25
+sensor id = 12 - temperature = 25.216 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.216005) higher than 25
+sensor id = 12 - temperature = 25.4069 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.406908) higher than 25
+sensor id = 12 - temperature = 25.1204 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.120368) higher than 25
+sensor id = 12 - temperature = 25.3285 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.328530) higher than 25
+sensor id = 12 - temperature = 25.0369 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.036883) higher than 25
+sensor id = 12 - temperature = 24.8691 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.869114) higher than 25
+sensor id = 12 - temperature = 25.2999 - timestamp = 1671056866
+einde inserted 
+1049 
+Sensor 12 read a temperature value (25.299924) higher than 25
+sensor id = 12 - temperature = 25.7028 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.702837) higher than 25
+sensor id = 12 - temperature = 25.2967 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.296728) higher than 25
+sensor id = 12 - temperature = 24.864 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.863976) higher than 25
+sensor id = 12 - temperature = 24.9767 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.976706) higher than 25
+sensor id = 12 - temperature = 24.5094 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.509429) higher than 25
+sensor id = 12 - temperature = 24.8722 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3981 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4527 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2898 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6107 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5481 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2074 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3302 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3257 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6675 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5897 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8801 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.027 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8643 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.1212 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.897 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.3238 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.323784) higher than 25
+sensor id = 12 - temperature = 25.3738 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.373751) higher than 25
+sensor id = 12 - temperature = 25.2942 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.294197) higher than 25
+sensor id = 12 - temperature = 25.2604 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.260375) higher than 25
+sensor id = 12 - temperature = 25.0151 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.015141) higher than 25
+sensor id = 12 - temperature = 25.1654 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.165376) higher than 25
+sensor id = 12 - temperature = 24.8535 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.853461) higher than 25
+sensor id = 12 - temperature = 24.8328 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.832758) higher than 25
+sensor id = 12 - temperature = 24.3288 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9637 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8644 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4752 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1956 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7247 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3863 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.985 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5578 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7894 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.738 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1418 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8184 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9365 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9707 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1527 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.12 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5863 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5661 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1902 - timestamp = 1671056866
+einde inserted 
+1097 
+sensor id = 12 - temperature = 22.006 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7574 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6745 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4317 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7501 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.102 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3372 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9196 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9335 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.371 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4633 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0422 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5251 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6613 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4645 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9778 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2796 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1828 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7677 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7974 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1481 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6332 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8333 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7935 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8068 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6854 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1119 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.088 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4454 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9926 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2836 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8889 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8522 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.397 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8198 - timestamp = 1671056866
+einde inserted 
+1132 
+sensor id = 12 - temperature = 22.6317 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9108 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4125 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7375 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9507 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0248 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8655 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1567 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2105 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6866 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2777 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.344 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6185 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6122 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7601 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5586 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3997 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5321 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0325 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3381 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9855 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8688 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1026 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2304 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9728 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.258 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1785 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0304 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7805 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.75 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5262 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5924 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3426 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1247 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0173 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4848 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8426 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0749 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3302 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2408 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4508 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8012 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2796 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2632 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1088 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2391 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5277 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7184 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4826 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7755 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7732 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6887 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3663 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1017 - timestamp = 1671056866
+einde inserted 
+1185 
+sensor id = 12 - temperature = 23.6514 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5802 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1071 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0861 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.373 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1537 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6034 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1651 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5132 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2117 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0567 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.7962 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4632 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1697 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6477 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0736 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.1918 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.3784 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6558 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.756 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4322 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0638 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8053 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2836 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6167 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6308 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9078 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7468 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1871 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.6498 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7299 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2231 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1201 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2351 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2129 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8997 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3009 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2313 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9853 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2375 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3717 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.4736 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9656 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2697 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5785 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0462 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.2716 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.1964 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.3511 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.351103) higher than 25
+sensor id = 12 - temperature = 25.3567 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.356687) higher than 25
+sensor id = 12 - temperature = 24.887 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.887049) higher than 25
+sensor id = 12 - temperature = 25.2259 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.225892) higher than 25
+sensor id = 12 - temperature = 25.3683 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.368279) higher than 25
+sensor id = 12 - temperature = 25.143 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.142953) higher than 25
+1238 
+sensor id = 12 - temperature = 25.4604 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.460356) higher than 25
+sensor id = 12 - temperature = 25.4386 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.438562) higher than 25
+sensor id = 12 - temperature = 25.7325 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.732543) higher than 25
+sensor id = 12 - temperature = 25.8296 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 26.1521 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.829639) higher than 25
+Sensor 12 read a temperature value (26.152056) higher than 25
+sensor id = 12 - temperature = 26.3891 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.389070) higher than 25
+sensor id = 12 - temperature = 26.454 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.454008) higher than 25
+sensor id = 12 - temperature = 26.3641 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.364105) higher than 25
+sensor id = 12 - temperature = 26.6044 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.604422) higher than 25
+sensor id = 12 - temperature = 27.0739 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.073916) higher than 25
+sensor id = 12 - temperature = 26.604 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.604008) higher than 25
+sensor id = 12 - temperature = 26.3296 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.329559) higher than 25
+sensor id = 12 - temperature = 25.9958 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.995838) higher than 25
+sensor id = 12 - temperature = 26.4395 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.439524) higher than 25
+sensor id = 12 - temperature = 26.6053 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.605251) higher than 25
+sensor id = 12 - temperature = 26.5328 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.532850) higher than 25
+sensor id = 12 - temperature = 26.7335 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.733464) higher than 25
+sensor id = 12 - temperature = 26.5406 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.540611) higher than 25
+sensor id = 12 - temperature = 26.0798 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.079822) higher than 25
+sensor id = 12 - temperature = 26.2845 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.284544) higher than 25
+sensor id = 12 - temperature = 25.9054 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.905364) higher than 25
+sensor id = 12 - temperature = 26.2654 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.265361) higher than 25
+sensor id = 12 - temperature = 26.4473 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.447311) higher than 25
+sensor id = 12 - temperature = 26.8054 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.805370) higher than 25
+sensor id = 12 - temperature = 26.5995 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.599545) higher than 25
+sensor id = 12 - temperature = 26.448 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.448033) higher than 25
+sensor id = 12 - temperature = 26.3259 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.325927) higher than 25
+sensor id = 12 - temperature = 26.1671 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.167145) higher than 25
+sensor id = 12 - temperature = 25.8686 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.868573) higher than 25
+sensor id = 12 - temperature = 25.4054 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.405381) higher than 25
+sensor id = 12 - temperature = 25.5402 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.540217) higher than 25
+sensor id = 12 - temperature = 25.0754 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.075397) higher than 25
+sensor id = 12 - temperature = 25.1092 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.109179) higher than 25
+sensor id = 12 - temperature = 25.0542 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.054171) higher than 25
+sensor id = 12 - temperature = 25.205 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.205039) higher than 25
+sensor id = 12 - temperature = 25.0772 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.077238) higher than 25
+sensor id = 12 - temperature = 24.7777 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.777663) higher than 25
+1274 
+sensor id = 12 - temperature = 24.5143 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8198 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.2812 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0053 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.3613 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.066 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.066040) higher than 25
+sensor id = 12 - temperature = 24.9767 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.976677) higher than 25
+sensor id = 12 - temperature = 25.294 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.294010) higher than 25
+sensor id = 12 - temperature = 25.6845 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.684485) higher than 25
+sensor id = 12 - temperature = 26.0402 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.040154) higher than 25
+sensor id = 12 - temperature = 26.0729 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.072948) higher than 25
+sensor id = 12 - temperature = 25.7878 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.787843) higher than 25
+sensor id = 12 - temperature = 26.2024 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.202410) higher than 25
+sensor id = 12 - temperature = 25.957 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.957014) higher than 25
+sensor id = 12 - temperature = 25.8122 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.812231) higher than 25
+sensor id = 12 - temperature = 26.1037 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.103700) higher than 25
+sensor id = 12 - temperature = 26.5596 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.559575) higher than 25
+sensor id = 12 - temperature = 26.2896 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.289574) higher than 25
+sensor id = 12 - temperature = 25.8944 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.894358) higher than 25
+sensor id = 12 - temperature = 25.7203 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.720265) higher than 25
+sensor id = 12 - temperature = 25.8521 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.852095) higher than 25
+sensor id = 12 - temperature = 25.8194 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.819414) higher than 25
+sensor id = 12 - temperature = 25.8655 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.865459) higher than 25
+sensor id = 12 - temperature = 26.0502 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.050214) higher than 25
+sensor id = 12 - temperature = 25.6659 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.665906) higher than 25
+sensor id = 12 - temperature = 25.7631 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.763099) higher than 25
+sensor id = 12 - temperature = 25.495 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.495025) higher than 25
+sensor id = 12 - temperature = 25.5715 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.571531) higher than 25
+sensor id = 12 - temperature = 25.3328 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.332835) higher than 25
+sensor id = 12 - temperature = 25.4526 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.452637) higher than 25
+sensor id = 12 - temperature = 25.7427 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.742665) higher than 25
+sensor id = 12 - temperature = 25.7511 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.751137) higher than 25
+sensor id = 12 - temperature = 25.6844 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.684438) higher than 25
+sensor id = 12 - temperature = 25.9463 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.946257) higher than 25
+sensor id = 12 - temperature = 26.1917 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.191750) higher than 25
+sensor id = 12 - temperature = 25.9914 - timestamp = 1671056866
+1308 
+einde inserted 
+Sensor 12 read a temperature value (25.991401) higher than 25
+sensor id = 12 - temperature = 26.4707 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.470704) higher than 25
+sensor id = 12 - temperature = 26.137 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.137042) higher than 25
+sensor id = 12 - temperature = 25.7667 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.766683) higher than 25
+sensor id = 12 - temperature = 26.1516 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.151555) higher than 25
+sensor id = 12 - temperature = 25.6911 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.691080) higher than 25
+sensor id = 12 - temperature = 25.8734 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.873446) higher than 25
+sensor id = 12 - temperature = 25.4905 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.490544) higher than 25
+sensor id = 12 - temperature = 25.9644 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.964379) higher than 25
+sensor id = 12 - temperature = 26.4185 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.418495) higher than 25
+sensor id = 12 - temperature = 26.4054 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.405370) higher than 25
+sensor id = 12 - temperature = 26.6827 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.682661) higher than 25
+sensor id = 12 - temperature = 27.1071 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.107079) higher than 25
+sensor id = 12 - temperature = 27.3408 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.340808) higher than 25
+sensor id = 12 - temperature = 27.7372 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.737154) higher than 25
+sensor id = 12 - temperature = 27.4992 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.499178) higher than 25
+sensor id = 12 - temperature = 27.3789 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.378878) higher than 25
+sensor id = 12 - temperature = 27.2591 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.259113) higher than 25
+sensor id = 12 - temperature = 27.5862 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.586170) higher than 25
+sensor id = 12 - temperature = 27.167 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.167016) higher than 25
+sensor id = 12 - temperature = 27.1818 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.181754) higher than 25
+sensor id = 12 - temperature = 27.1222 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.122220) higher than 25
+sensor id = 12 - temperature = 26.9536 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 26.5609 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.953628) higher than 25
+Sensor 12 read a temperature value (26.560913) higher than 25
+sensor id = 12 - temperature = 26.7811 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.781146) higher than 25
+sensor id = 12 - temperature = 27.2482 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.248225) higher than 25
+sensor id = 12 - temperature = 27.6588 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.658829) higher than 25
+sensor id = 12 - temperature = 27.3983 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.398257) higher than 25
+sensor id = 12 - temperature = 27.3118 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.311808) higher than 25
+sensor id = 12 - temperature = 27.4998 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.499834) higher than 25
+sensor id = 12 - temperature = 27.0028 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.002782) higher than 25
+sensor id = 12 - temperature = 27.2364 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.236419) higher than 25
+sensor id = 12 - temperature = 27.4216 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.421583) higher than 25
+sensor id = 12 - temperature = 27.1111 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.111113) higher than 25
+sensor id = 12 - temperature = 27.492 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.492035) higher than 25
+sensor id = 12 - temperature = 27.5771 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.577127) higher than 25
+1343 
+sensor id = 12 - temperature = 27.3237 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.323661) higher than 25
+sensor id = 12 - temperature = 27.4018 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.401842) higher than 25
+sensor id = 12 - temperature = 27.6213 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.621350) higher than 25
+sensor id = 12 - temperature = 27.3565 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.356452) higher than 25
+sensor id = 12 - temperature = 27.4059 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.405907) higher than 25
+sensor id = 12 - temperature = 27.1319 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.131861) higher than 25
+sensor id = 12 - temperature = 26.6662 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.666229) higher than 25
+sensor id = 12 - temperature = 26.6645 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.664465) higher than 25
+sensor id = 12 - temperature = 26.1509 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.150892) higher than 25
+sensor id = 12 - temperature = 26.6107 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.610714) higher than 25
+sensor id = 12 - temperature = 26.8974 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.897438) higher than 25
+sensor id = 12 - temperature = 26.7874 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.787395) higher than 25
+sensor id = 12 - temperature = 26.6487 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.648665) higher than 25
+sensor id = 12 - temperature = 26.7861 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.786051) higher than 25
+sensor id = 12 - temperature = 26.7828 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.782843) higher than 25
+sensor id = 12 - temperature = 27.1822 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.182208) higher than 25
+sensor id = 12 - temperature = 26.7808 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.780802) higher than 25
+sensor id = 12 - temperature = 27.1321 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.132138) higher than 25
+sensor id = 12 - temperature = 26.6593 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.659310) higher than 25
+sensor id = 12 - temperature = 27.0011 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.001056) higher than 25
+sensor id = 12 - temperature = 27.3398 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.339776) higher than 25
+sensor id = 12 - temperature = 27.8003 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.800255) higher than 25
+sensor id = 12 - temperature = 27.4015 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.401518) higher than 25
+sensor id = 12 - temperature = 27.1763 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.176278) higher than 25
+sensor id = 12 - temperature = 27.3497 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (27.349659) higher than 25
+sensor id = 12 - temperature = 26.9811 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.981123) higher than 25
+sensor id = 12 - temperature = 26.5141 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.514136) higher than 25
+sensor id = 12 - temperature = 26.3997 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.399674) higher than 25
+sensor id = 12 - temperature = 26.25 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.250026) higher than 25
+sensor id = 12 - temperature = 26.6907 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.690671) higher than 25
+sensor id = 12 - temperature = 26.1854 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.185379) higher than 25
+sensor id = 12 - temperature = 26.3087 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.308722) higher than 25
+sensor id = 12 - temperature = 26.3514 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.351373) higher than 25
+sensor id = 12 - temperature = 26.5918 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.591794) higher than 25
+sensor id = 12 - temperature = 26.9738 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.973814) higher than 25
+sensor id = 12 - temperature = 26.5869 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.586876) higher than 25
+sensor id = 12 - temperature = 26.0766 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.076604) higher than 25
+sensor id = 12 - temperature = 26.5187 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.518726) higher than 25
+sensor id = 12 - temperature = 26.6531 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.653133) higher than 25
+sensor id = 12 - temperature = 26.1498 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.149777) higher than 25
+sensor id = 12 - temperature = 26.5696 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.569611) higher than 25
+sensor id = 12 - temperature = 26.511 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.511040) higher than 25
+sensor id = 12 - temperature = 26.4203 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.420339) higher than 25
+sensor id = 12 - temperature = 26.2215 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.221526) higher than 25
+sensor id = 12 - temperature = 25.8228 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.822826) higher than 25
+sensor id = 12 - temperature = 26.2538 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.253788) higher than 25
+sensor id = 12 - temperature = 25.9766 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.976587) higher than 25
+sensor id = 12 - temperature = 25.7011 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.701117) higher than 25
+sensor id = 12 - temperature = 26.0054 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (26.005428) higher than 25
+sensor id = 12 - temperature = 25.7798 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.779802) higher than 25
+sensor id = 12 - temperature = 25.3679 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.367857) higher than 25
+sensor id = 12 - temperature = 25.5351 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.535060) higher than 25
+1394 
+sensor id = 12 - temperature = 25.2965 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.296463) higher than 25
+sensor id = 12 - temperature = 25.0147 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.014701) higher than 25
+sensor id = 12 - temperature = 25.4829 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.482936) higher than 25
+sensor id = 12 - temperature = 25.9414 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.941363) higher than 25
+sensor id = 12 - temperature = 25.8121 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.812088) higher than 25
+sensor id = 12 - temperature = 25.3318 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.331755) higher than 25
+sensor id = 12 - temperature = 25.1965 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.196546) higher than 25
+sensor id = 12 - temperature = 25.4408 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.440845) higher than 25
+sensor id = 12 - temperature = 25.9218 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.921764) higher than 25
+sensor id = 12 - temperature = 25.7993 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.799266) higher than 25
+sensor id = 12 - temperature = 25.6823 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.682322) higher than 25
+sensor id = 12 - temperature = 25.7237 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.723728) higher than 25
+sensor id = 12 - temperature = 25.3619 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.361898) higher than 25
+sensor id = 12 - temperature = 25.1496 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.149619) higher than 25
+sensor id = 12 - temperature = 25.3291 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (25.329121) higher than 25
+sensor id = 12 - temperature = 24.9794 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.979425) higher than 25
+sensor id = 12 - temperature = 24.7291 - timestamp = 1671056866
+einde inserted 
+Sensor 12 read a temperature value (24.729064) higher than 25
+sensor id = 12 - temperature = 24.5652 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.2367 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9281 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.23 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3326 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3443 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.764 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.8115 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 25.0624 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.7205 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.5885 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1324 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8995 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4532 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2794 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.283 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.8206 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6233 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.0181 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5932 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.776 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9278 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.499 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0769 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.6318 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7667 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5025 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3623 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1914 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0945 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2184 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3955 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4794 - timestamp = 1671056866
+einde inserted 
+1443 
+sensor id = 12 - temperature = 21.8015 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7847 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4779 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3209 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2354 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4902 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0956 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.182 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8162 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4793 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8442 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5407 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5362 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4082 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.1484 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4501 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2181 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0368 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0224 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4457 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3367 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3986 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8728 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3922 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.686 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5137 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3582 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0488 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4965 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0118 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2825 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.546 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5407 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9984 - timestamp = 1671056866
+einde inserted 
+1476 
+sensor id = 12 - temperature = 20.5962 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9993 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2032 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9003 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8813 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2133 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0651 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4202 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7617 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9603 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7099 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8399 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2959 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3511 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9511 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3175 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7533 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9024 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2278 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6703 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.598 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2385 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0156 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1265 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7047 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4898 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3616 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.696 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9661 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7835 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.206 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3671 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8789 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4916 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1292 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4711 - timestamp = 1671056866
+einde inserted 
+1512 
+sensor id = 12 - temperature = 21.4313 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3969 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7497 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5395 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1945 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.7902 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2058 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8102 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.957 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.4661 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.9328 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0089 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1631 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4487 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4634 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0439 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.471 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7614 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.9489 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4478 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0145 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5675 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.897 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2325 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.099 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3449 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.3378 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2149 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5698 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.6941 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4046 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2135 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.7999 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.3621 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.4622 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.2026 - timestamp = 1671056866
+einde inserted 
+1547 
+sensor id = 12 - temperature = 20.857 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8667 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.708 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0032 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.0136 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.8107 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6736 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.3324 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 19.9118 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.2886 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.0247 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.5254 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 20.6845 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.1024 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.5939 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 21.8141 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2767 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5873 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.635 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.4588 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.5123 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.0524 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.2554 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.1634 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.33 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.743 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 22.9571 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.2046 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.672 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4758 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9559 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.5674 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8733 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.6845 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0836 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8899 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.9906 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7427 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.7003 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8705 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.4872 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.671 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 23.8298 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.0959 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.1854 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3261 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3053 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3531 - timestamp = 1671056866
+einde inserted 
+sensor id = 12 - temperature = 24.3024 - timestamp = 1671056866
+einde inserted 
+1595 
+Sensor with id 12 disconnected
+1594 
+1593 
+1592 
+1591 
+1590 
+1589 
+1588 
+1587 
+1586 
+1585 
+1584 
+1583 
+1582 
+1581 
+1580 
+1579 
+1578 
+1577 
+1576 
+1575 
+1574 
+1573 
+1572 
+1571 
+1570 
+1569 
+1568 
+1567 
+1566 
+1565 
+1564 
+1563 
+1562 
+1561 
+1560 
+1559 
+1558 
+1557 
+1556 
+1555 
+1554 
+1553 
+1552 
+1551 
+1550 
+1549 
+1548 
+1547 
+1546 
+1545 
+1544 
+1543 
+1542 
+1541 
+1540 
+1539 
+1538 
+1537 
+1536 
+1535 
+1534 
+1533 
+1532 
+1531 
+1530 
+1529 
+1528 
+1527 
+1526 
+1525 
+1524 
+1523 
+1522 
+1521 
+1520 
+1519 
+1518 
+1517 
+1516 
+1515 
+1514 
+1513 
+1512 
+1511 
+1510 
+1509 
+1508 
+1507 
+1506 
+1505 
+1504 
+1503 
+1502 
+1501 
+1500 
+1499 
+1498 
+1497 
+1496 
+1495 
+1494 
+1493 
+1492 
+1491 
+1490 
+1489 
+1488 
+1487 
+1486 
+1485 
+1484 
+1483 
+1482 
+1481 
+1480 
+1479 
+1478 
+1477 
+1476 
+1475 
+1474 
+1473 
+1472 
+1471 
+1470 
+1469 
+1468 
+1467 
+1466 
+1465 
+1464 
+1463 
+1462 
+1461 
+1460 
+1459 
+1458 
+1457 
+1456 
+1455 
+1454 
+1453 
+1452 
+1451 
+1450 
+1449 
+1448 
+1447 
+1446 
+1445 
+1444 
+1443 
+1442 
+1441 
+1440 
+1439 
+1438 
+1437 
+1436 
+1435 
+1434 
+1433 
+1432 
+1431 
+1430 
+1429 
+1428 
+1427 
+1426 
+1425 
+1424 
+1423 
+1422 
+1421 
+1420 
+1419 
+1418 
+1417 
+1416 
+1415 
+1414 
+1413 
+1412 
+1411 
+1410 
+1409 
+1408 
+1407 
+1406 
+1405 
+1404 
+1403 
+1402 
+1401 
+1400 
+1399 
+1398 
+1397 
+1396 
+1395 
+1394 
+1393 
+1392 
+1391 
+1390 
+1389 
+1388 
+1387 
+1386 
+1385 
+1384 
+1383 
+1382 
+1381 
+1380 
+1379 
+1378 
+1377 
+1376 
+1375 
+1374 
+1373 
+1372 
+1371 
+1370 
+1369 
+1368 
+1367 
+1366 
+1365 
+1364 
+1363 
+1362 
+1361 
+1360 
+1359 
+1358 
+1357 
+1356 
+1355 
+1354 
+1353 
+1352 
+1351 
+1350 
+1349 
+1348 
+1347 
+1346 
+1345 
+1344 
+1343 
+1342 
+1341 
+1340 
+1339 
+1338 
+1337 
+1336 
+1335 
+1334 
+1333 
+1332 
+1331 
+1330 
+1329 
+1328 
+1327 
+1326 
+1325 
+1324 
+1323 
+1322 
+1321 
+1320 
+1319 
+1318 
+1317 
+1316 
+1315 
+1314 
+1313 
+1312 
+1311 
+1310 
+1309 
+1308 
+1307 
+1306 
+1305 
+1304 
+1303 
+1302 
+1301 
+1300 
+1299 
+1298 
+1297 
+1296 
+1295 
+1294 
+1293 
+1292 
+1291 
+1290 
+1289 
+1288 
+1287 
+1286 
+1285 
+1284 
+1283 
+1282 
+1281 
+1280 
+1279 
+1278 
+1277 
+1276 
+1275 
+1274 
+1273 
+1272 
+1271 
+1270 
+1269 
+1268 
+1267 
+1266 
+1265 
+1264 
+1263 
+1262 
+1261 
+1260 
+1259 
+1258 
+1257 
+1256 
+1255 
+1254 
+1253 
+1252 
+1251 
+1250 
+1249 
+1248 
+1247 
+1246 
+1245 
+1244 
+1243 
+1242 
+1241 
+1240 
+1239 
+1238 
+1237 
+1236 
+1235 
+1234 
+1233 
+1232 
+1231 
+1230 
+1229 
+1228 
+1227 
+1226 
+1225 
+1224 
+1223 
+1222 
+1221 
+1220 
+1219 
+1218 
+1217 
+1216 
+1215 
+1214 
+1213 
+1212 
+1211 
+1210 
+1209 
+1208 
+1207 
+1206 
+1205 
+1204 
+1203 
+1202 
+1201 
+1200 
+1199 
+1198 
+1197 
+1196 
+1195 
+1194 
+1193 
+1192 
+1191 
+1190 
+1189 
+1188 
+1187 
+1186 
+1185 
+1184 
+1183 
+1182 
+1181 
+1180 
+1179 
+1178 
+1177 
+1176 
+1175 
+1174 
+1173 
+1172 
+1171 
+1170 
+1169 
+1168 
+1167 
+1166 
+1165 
+1164 
+1163 
+1162 
+1161 
+1160 
+1159 
+1158 
+1157 
+1156 
+1155 
+1154 
+1153 
+1152 
+1151 
+1150 
+1149 
+1148 
+1147 
+1146 
+1145 
+1144 
+1143 
+1142 
+1141 
+1140 
+1139 
+1138 
+1137 
+1136 
+1135 
+1134 
+1133 
+1132 
+1131 
+1130 
+1129 
+1128 
+1127 
+1126 
+1125 
+1124 
+1123 
+1122 
+1121 
+1120 
+1119 
+1118 
+1117 
+1116 
+1115 
+1114 
+1113 
+1112 
+1111 
+1110 
+1109 
+1108 
+1107 
+1106 
+1105 
+1104 
+1103 
+1102 
+1101 
+1100 
+1099 
+1098 
+1097 
+1096 
+1095 
+1094 
+1093 
+1092 
+1091 
+1090 
+1089 
+1088 
+1087 
+1086 
+1085 
+1084 
+1083 
+1082 
+1081 
+1080 
+1079 
+1078 
+1077 
+1076 
+1075 
+1074 
+1073 
+1072 
+1071 
+1070 
+1069 
+1068 
+1067 
+1066 
+1065 
+1064 
+1063 
+1062 
+1061 
+1060 
+1059 
+1058 
+1057 
+1056 
+1055 
+1054 
+1053 
+1052 
+1051 
+1050 
+1049 
+1048 
+1047 
+1046 
+1045 
+1044 
+1043 
+1042 
+1041 
+1040 
+1039 
+1038 
+1037 
+1036 
+1035 
+1034 
+1033 
+1032 
+1031 
+1030 
+1029 
+1028 
+1027 
+1026 
+1025 
+1024 
+1023 
+1022 
+1021 
+1020 
+1019 
+1018 
+1017 
+1016 
+1015 
+1014 
+1013 
+1012 
+1011 
+1010 
+1009 
+1008 
+1007 
+1006 
+1005 
+1004 
+1003 
+1002 
+1001 
+1000 
+999 
+998 
+997 
+996 
+995 
+994 
+993 
+992 
+991 
+990 
+989 
+988 
+987 
+986 
+985 
+984 
+983 
+982 
+981 
+980 
+979 
+978 
+977 
+976 
+975 
+974 
+973 
+972 
+971 
+970 
+969 
+968 
+967 
+966 
+965 
+964 
+963 
+962 
+961 
+960 
+959 
+958 
+957 
+956 
+955 
+954 
+953 
+952 
+951 
+950 
+949 
+948 
+947 
+946 
+945 
+944 
+943 
+942 
+941 
+940 
+939 
+938 
+937 
+936 
+935 
+934 
+933 
+932 
+931 
+930 
+929 
+928 
+927 
+926 
+925 
+924 
+923 
+922 
+921 
+920 
+919 
+918 
+917 
+916 
+915 
+914 
+913 
+912 
+911 
+910 
+909 
+908 
+907 
+906 
+905 
+904 
+903 
+902 
+901 
+900 
+899 
+898 
+897 
+896 
+895 
+894 
+893 
+892 
+891 
+890 
+889 
+888 
+887 
+886 
+885 
+884 
+883 
+882 
+881 
+880 
+879 
+878 
+877 
+876 
+875 
+874 
+873 
+872 
+871 
+870 
+869 
+868 
+867 
+866 
+865 
+864 
+863 
+862 
+861 
+860 
+859 
+858 
+857 
+856 
+855 
+854 
+853 
+852 
+851 
+850 
+849 
+848 
+847 
+846 
+845 
+844 
+843 
+842 
+841 
+840 
+839 
+838 
+837 
+836 
+835 
+834 
+833 
+832 
+831 
+830 
+829 
+828 
+827 
+826 
+825 
+824 
+823 
+822 
+821 
+820 
+819 
+818 
+817 
+816 
+815 
+814 
+813 
+812 
+811 
+810 
+809 
+808 
+807 
+806 
+805 
+804 
+803 
+802 
+801 
+800 
+799 
+798 
+797 
+796 
+795 
+794 
+793 
+792 
+791 
+790 
+789 
+788 
+787 
+786 
+785 
+784 
+783 
+782 
+781 
+780 
+779 
+778 
+777 
+776 
+775 
+774 
+773 
+772 
+771 
+770 
+769 
+768 
+767 
+766 
+765 
+764 
+763 
+762 
+761 
+760 
+759 
+758 
+757 
+756 
+755 
+754 
+753 
+752 
+751 
+750 
+749 
+748 
+747 
+746 
+745 
+744 
+743 
+742 
+741 
+740 
+739 
+738 
+737 
+736 
+735 
+734 
+733 
+732 
+731 
+730 
+729 
+728 
+727 
+726 
+725 
+724 
+723 
+722 
+721 
+720 
+719 
+718 
+717 
+716 
+715 
+714 
+713 
+712 
+711 
+710 
+709 
+708 
+707 
+706 
+705 
+704 
+703 
+702 
+701 
+700 
+699 
+698 
+697 
+696 
+695 
+694 
+693 
+692 
+691 
+690 
+689 
+688 
+687 
+686 
+685 
+684 
+683 
+682 
+681 
+680 
+679 
+678 
+677 
+676 
+675 
+674 
+673 
+672 
+671 
+670 
+669 
+668 
+667 
+666 
+665 
+664 
+663 
+662 
+661 
+660 
+659 
+658 
+657 
+656 
+655 
+654 
+653 
+652 
+651 
+650 
+649 
+648 
+647 
+646 
+645 
+644 
+643 
+642 
+641 
+640 
+639 
+638 
+637 
+636 
+635 
+634 
+633 
+632 
+631 
+630 
+629 
+628 
+627 
+626 
+625 
+624 
+623 
+622 
+621 
+620 
+619 
+618 
+617 
+616 
+615 
+614 
+613 
+612 
+611 
+610 
+609 
+608 
+607 
+606 
+605 
+604
