@@ -45,7 +45,7 @@ struct sbuffer {
 
 // ---------------------------------------------------------  MAKEN EN INITIALISEREN  ----------------------------------------------------------
 
-// maak node
+// maak nodekkk
 static sbuffer_node_t* create_node(const sensor_data_t* data) {     // maak een node voor in de buffer
     sbuffer_node_t* node = malloc(sizeof(*node));
     *node = (sbuffer_node_t){

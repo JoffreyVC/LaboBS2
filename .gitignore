@@ -12,3 +12,6 @@
 
 !lib/
 !lib/*
+
+!build/
+!build/*

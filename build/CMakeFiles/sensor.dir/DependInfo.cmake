@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/michiel2002v/laboBS5/LaboBS2/sensor_node.c" "CMakeFiles/sensor.dir/sensor_node.c.o" "gcc" "CMakeFiles/sensor.dir/sensor_node.c.o.d"
+  "/home/joffreyvc/LaboBS2/sensor_node.c" "CMakeFiles/sensor.dir/sensor_node.c.o" "gcc" "CMakeFiles/sensor.dir/sensor_node.c.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/michiel2002v/laboBS5/LaboBS2/build/lib/CMakeFiles/tcpsock.dir/DependInfo.cmake"
+  "/home/joffreyvc/LaboBS2/build/lib/CMakeFiles/tcpsock.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
