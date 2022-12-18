@@ -97,13 +97,8 @@ void connmgr_listen(int port_number, sbuffer_t* buffer) {       // werking niet 
                             // * print binnengekomen waarde!
                             printf("sensor id = %" PRIu16 " - temperature = %g - timestamp = %ld\n", data.id, data.value, data.ts);
 
-
-                            // ^ hier in buffer toevoegen
-                            // // sbuffer_lock(buffer);
                             int ret = sbuffer_insert_first(buffer, &data);
                             assert(ret == SBUFFER_SUCCESS);
-                            // // sbuffer_unlock(buffer);
-
 
                         } else if (result == TCP_CONNECTION_CLOSED) {
                             printf("Sensor with id %" PRIu16 " disconnected\n", *tcp_last_seen_sensor_id(socket));

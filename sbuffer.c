@@ -31,6 +31,9 @@ typedef struct sbuffer_node {
 struct sbuffer {
     sbuffer_node_t* head;  // kop waar elementen worden toegevoegd door connection manager
     sbuffer_node_t* tail;  // staart waar readers elementen van halen
+    int aantal;
+    int aantal_datamanaged;
+
     bool closed;
     pthread_rwlock_t rw_lock;
     unsigned long id_readers[2];  // storage, data - manager
@@ -63,6 +66,7 @@ sbuffer_t* sbuffer_create() {
     buffer->head = NULL;
     buffer->tail = NULL;
     buffer->closed = false;
+    buffer->aantal = 0;
 
     ASSERT_ELSE_PERROR(pthread_rwlock_init(&buffer->rw_lock, NULL) == 0);  // initialisatie RWlock
     ASSERT_ELSE_PERROR(pthread_cond_init(&(buffer->bufferIsExpanded), NULL) == 0);  // initialisatie CD variabele om wait en signal uit te voeren
@@ -78,14 +82,12 @@ void printBuffer(sbuffer_t* buffer) {
         sbuffer_node_t* node = buffer->tail;
         printf("Buffer: ");
         while (node->next != NULL){
-            printf("%f", node->data.value);
+            printf("%f ", node->data.value);
             printf(" ");
             node = node->next;
         }
     }
 }
-
-
 
 // verwijder buffer
 void sbuffer_destroy(sbuffer_t* buffer) {       // vrijgeven van de buffer
@@ -95,17 +97,6 @@ void sbuffer_destroy(sbuffer_t* buffer) {       // vrijgeven van de buffer
     // // ASSERT_ELSE_PERROR(pthread_mutex_destroy(&buffer->mutex) == 0);
     free(buffer);
 }
-
-/* -> verwoven in de nodige functies zelf
-void sbuffer_lock(sbuffer_t* buffer) {      // lock de buffer
-    assert(buffer);
-    // // ASSERT_ELSE_PERROR(pthread_mutex_lock(&buffer->mutex) == 0);
-}
-void sbuffer_unlock(sbuffer_t* buffer) {        // unlock de buffer
-    assert(buffer);
-    // // ASSERT_ELSE_PERROR(pthread_mutex_unlock(&buffer->mutex) == 0);
-}
-*/
 
 void sbuffer_identify_readers(sbuffer_t* buffer, bool isDataManager){
     if(isDataManager) buffer->id_readers[1] = pthread_self();
@@ -138,15 +129,13 @@ bool sbuffer_is_closed(sbuffer_t* buffer) {     // is de buffer closed?
 }
 
 // ---------------------------------------------------------  TOEVOEGEN  ----------------------------------------------------------
-
+//f
 
 int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {        // insert aan het begin van de buffer
     assert(buffer && data);
-    // ? de check hoeft denk ik niet met synchronisatie te gebeuren
     if (buffer->closed)
         return SBUFFER_FAILURE;  // kan niet als hij toe is
 
-    // ? de nieuwe node maken kan ook zonder synchronisatie gebeuren denk ik
     sbuffer_node_t* node = create_node(data);
     assert(node->next == NULL);
 
@@ -161,9 +150,12 @@ int sbuffer_insert_first(sbuffer_t* buffer, sensor_data_t const* data) {        
     if (buffer->tail == NULL)
         buffer->tail = node;
 
-    //printf("einde insert \n");
-    printBuffer(buffer);
-    printf("\n");
+    buffer->aantal++;
+    //printf("%i - ", buffer->aantal);  // aantal in buffer printen voor snellere check
+    printf("einde inserted \n");
+    
+    //printBuffer(buffer);
+    //printf("\n");
 
     // geef rw lock terug vrij
     pthread_mutex_unlock(&(buffer->mutex));
@@ -211,8 +203,6 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
                     break;
                 }
                 if (!gevonden) used_node = used_node->next;
-
-
             } 
         }
 
@@ -233,10 +223,13 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
 
     // lees van node
     sensor_data_t ret = used_node->data;
-    if (isDataManager) used_node->datamanaged = true;
+    if (isDataManager){
+        used_node->datamanaged = true;
+        buffer->aantal_datamanaged++;
+    } 
     else used_node->stored = true;
 
-    printf("%d %d \n", used_node->stored, used_node->datamanaged);
+    //printf("%d %d \n", used_node->stored, used_node->datamanaged);
 
     // geef node en buffer vrij
     pthread_mutex_unlock(&(used_node->node_mutex));
@@ -246,8 +239,8 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
         // neem write lock voor verwijderen
         pthread_rwlock_wrlock(&(buffer->rw_lock));
 
-        printf("te removen node: ");
-        printf(" %f", used_node->data.value);
+        // printf("te removen node: ");
+        // printf(" %f \n", used_node->data.value);
 
         sbuffer_node_t* temp = buffer->tail;
         if (temp->next != NULL) buffer->tail = buffer->tail->next;
@@ -257,9 +250,12 @@ sensor_data_t sbuffer_remove_last(sbuffer_t* buffer) {      // geef laatste van 
         }
         temp->next = NULL;
         free(temp);
+        buffer->aantal--;
+        buffer->aantal_datamanaged--;
 
         // Geef buffer terug vrij
-        printf("einde verwijderen \n");
+        //printf("einde verwijderen \n");
+        printf("%i \n", buffer->aantal);
         pthread_rwlock_unlock(&(buffer->rw_lock));
     } 
 
